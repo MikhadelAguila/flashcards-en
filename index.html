@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Review English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <h1 class="hero">Hey Genie, ready for the review?</h1>
+    <div class="controls">
+      <div class="controls-row">
+        <label class="study-switch">
+          <input id="studyToggle" type="checkbox" />
+          <span class="track" aria-hidden="true">
+            <span class="thumb"></span>
+          </span>
+          <span class="labels">
+            <span class="label-off">Modo repaso</span>
+            <span class="label-on">Modo aprendizaje</span>
+          </span>
+        </label>
+      </div>
+      <div class="controls-row level-row" role="group" aria-label="Nivel">
+        <button class="level-option" type="button" data-level="basic">Basic</button>
+        <button class="level-option" type="button" data-level="intermediate">Intermediate</button>
+        <button class="level-option" type="button" data-level="advanced">Advanced</button>
+        <button class="level-option active" type="button" data-level="all">All</button>
+      </div>
+      <div class="controls-row">
+        <label class="toggle">
+          <input id="modeToggle" type="checkbox" />
+          <span>Modo aleatorio</span>
+        </label>
+
+        <button id="shuffleBtn" class="btn ghost" type="button" title="Barajar (solo aleatorio)">
+          Barajar
+        </button>
+
+        <button id="resetBtn" class="btn ghost" type="button" title="Reinicia progreso">
+          Empezar de nuevo
+        </button>
+      </div>
+      <div class="controls-row jump-row">
+        <label class="jump-label" for="jumpInput">Ir a tarjeta</label>
+        <input id="jumpInput" class="jump-input" type="number" min="1" placeholder="Nº" inputmode="numeric" />
+        <button id="jumpBtn" class="btn ghost" type="button">Ir</button>
+      </div>
+    </div>
+
+    <p id="meta">Cargando…</p>
+
+    <div class="search">
+      <input id="searchInput" class="search-input" type="text" placeholder="Buscar en español..." autocomplete="off" />
+      <div id="suggestions" class="suggestions" role="listbox" aria-label="Sugerencias"></div>
+    </div>
+
+    <section class="card" aria-live="polite">
+      <div class="front">
+        <div class="label">ESPAÑOL</div>
+        <div id="es" class="big">—</div>
+      </div>
+
+      <div id="back" class="back hidden">
+        <div class="row">
+          <div class="label">PRONUNCIACIÓN</div>
+          <div id="pron" class="text">—</div>
+        </div>
+        <div class="row">
+          <div class="label">INGLÉS</div>
+          <div class="text strong">
+            <span id="en">—</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="bottom">
+      <button id="prevBtn" class="btn" type="button" aria-label="Anterior">&lt;</button>
+      <button id="showBtn" class="btn primary" type="button">Mostrar</button>
+      <button id="nextBtn" class="btn" type="button" aria-label="Siguiente">&gt;</button>
+    </footer>
+
+    <p class="hint">
+      Atajos: ← Anterior · → Siguiente · Espacio mostrar/ocultar
+    </p>
+    <p class="powered">Designed & Built by Mikha del Aguila</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

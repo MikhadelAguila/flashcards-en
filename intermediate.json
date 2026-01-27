@@ -1,0 +1,7482 @@
+[
+  {
+    "es": "luna",
+    "pron": "mun",
+    "en": "moon"
+  },
+  {
+    "es": "combustible",
+    "pron": "fiul",
+    "en": "fuel"
+  },
+  {
+    "es": "tren",
+    "pron": "trein",
+    "en": "train"
+  },
+  {
+    "es": "famoso",
+    "pron": "feimus",
+    "en": "famous"
+  },
+  {
+    "es": "costa",
+    "pron": "koust",
+    "en": "coast"
+  },
+  {
+    "es": "policía",
+    "pron": "kop",
+    "en": "cop"
+  },
+  {
+    "es": "béisbol",
+    "pron": "beisbol",
+    "en": "baseball"
+  },
+  {
+    "es": "anillo",
+    "pron": "ring",
+    "en": "ring"
+  },
+  {
+    "es": "cuello",
+    "pron": "nek",
+    "en": "neck"
+  },
+  {
+    "es": "alcalde",
+    "pron": "meier",
+    "en": "mayor"
+  },
+  {
+    "es": "masculino",
+    "pron": "meil",
+    "en": "male"
+  },
+  {
+    "es": "peligro",
+    "pron": "deincher",
+    "en": "danger"
+  },
+  {
+    "es": "rodilla",
+    "pron": "ni",
+    "en": "knee"
+  },
+  {
+    "es": "tráfico",
+    "pron": "trafik",
+    "en": "traffic"
+  },
+  {
+    "es": "motor",
+    "pron": "enyin",
+    "en": "engine"
+  },
+  {
+    "es": "héroe",
+    "pron": "jiro",
+    "en": "hero"
+  },
+  {
+    "es": "círculo",
+    "pron": "serkol",
+    "en": "circle"
+  },
+  {
+    "es": "lluvia",
+    "pron": "rein",
+    "en": "rain"
+  },
+  {
+    "es": "cerveza",
+    "pron": "bir",
+    "en": "beer"
+  },
+  {
+    "es": "obras",
+    "pron": "uorks",
+    "en": "works"
+  },
+  {
+    "es": "piscina",
+    "pron": "pul",
+    "en": "pool"
+  },
+  {
+    "es": "vacío",
+    "pron": "empti",
+    "en": "empty"
+  },
+  {
+    "es": "bolsillo",
+    "pron": "poket",
+    "en": "pocket"
+  },
+  {
+    "es": "azúcar",
+    "pron": "shugar",
+    "en": "sugar"
+  },
+  {
+    "es": "puente",
+    "pron": "brich",
+    "en": "bridge"
+  },
+  {
+    "es": "alto",
+    "pron": "tol",
+    "en": "tall"
+  },
+  {
+    "es": "flor",
+    "pron": "flauer",
+    "en": "flower"
+  },
+  {
+    "es": "universo",
+    "pron": "iunivers",
+    "en": "universe"
+  },
+  {
+    "es": "labio",
+    "pron": "lip",
+    "en": "lip"
+  },
+  {
+    "es": "boda",
+    "pron": "uedin",
+    "en": "wedding"
+  },
+  {
+    "es": "copia",
+    "pron": "kopi",
+    "en": "copy"
+  },
+  {
+    "es": "ruso",
+    "pron": "rashan",
+    "en": "Russian"
+  },
+  {
+    "es": "cinta",
+    "pron": "teip",
+    "en": "tape"
+  },
+  {
+    "es": "océano",
+    "pron": "oushan",
+    "en": "ocean"
+  },
+  {
+    "es": "nube",
+    "pron": "klaud",
+    "en": "cloud"
+  },
+  {
+    "es": "ganador",
+    "pron": "uiner",
+    "en": "winner"
+  },
+  {
+    "es": "criminal",
+    "pron": "kriminal",
+    "en": "criminal"
+  },
+  {
+    "es": "botella",
+    "pron": "bodel",
+    "en": "bottle"
+  },
+  {
+    "es": "judío",
+    "pron": "yuish",
+    "en": "Jewish"
+  },
+  {
+    "es": "bailar",
+    "pron": "dans",
+    "en": "dance"
+  },
+  {
+    "es": "camisa",
+    "pron": "shert",
+    "en": "shirt"
+  },
+  {
+    "es": "indio",
+    "pron": "indian",
+    "en": "Indian"
+  },
+  {
+    "es": "diente",
+    "pron": "tuz",
+    "en": "tooth"
+  },
+  {
+    "es": "carne",
+    "pron": "mit",
+    "en": "meat"
+  },
+  {
+    "es": "estrés",
+    "pron": "stres",
+    "en": "stress"
+  },
+  {
+    "es": "tío",
+    "pron": "ankol",
+    "en": "uncle"
+  },
+  {
+    "es": "metal",
+    "pron": "metal",
+    "en": "metal"
+  },
+  {
+    "es": "álbum",
+    "pron": "album",
+    "en": "album"
+  },
+  {
+    "es": "fruta",
+    "pron": "frut",
+    "en": "fruit"
+  },
+  {
+    "es": "escritorio",
+    "pron": "desk",
+    "en": "desk"
+  },
+  {
+    "es": "celebrar",
+    "pron": "selebreit",
+    "en": "celebrate"
+  },
+  {
+    "es": "nariz",
+    "pron": "nouz",
+    "en": "nose"
+  },
+  {
+    "es": "jurado",
+    "pron": "yuri",
+    "en": "jury"
+  },
+  {
+    "es": "raíz",
+    "pron": "rut",
+    "en": "root"
+  },
+  {
+    "es": "gritar",
+    "pron": "skrim",
+    "en": "scream"
+  },
+  {
+    "es": "cirugía",
+    "pron": "serjeri",
+    "en": "surgery"
+  },
+  {
+    "es": "pecho",
+    "pron": "chest",
+    "en": "chest"
+  },
+  {
+    "es": "pintar",
+    "pron": "peint",
+    "en": "paint"
+  },
+  {
+    "es": "vacaciones",
+    "pron": "jolidei",
+    "en": "holiday"
+  },
+  {
+    "es": "ala",
+    "pron": "uing",
+    "en": "wing"
+  },
+  {
+    "es": "partido / cerilla",
+    "pron": "mach",
+    "en": "match"
+  },
+  {
+    "es": "delgado",
+    "pron": "zin",
+    "en": "thin"
+  },
+  {
+    "es": "agricultor",
+    "pron": "farmer",
+    "en": "farmer"
+  },
+  {
+    "es": "altavoz / orador",
+    "pron": "spiker",
+    "en": "speaker"
+  },
+  {
+    "es": "hoja",
+    "pron": "lif",
+    "en": "leaf"
+  },
+  {
+    "es": "sombrero",
+    "pron": "jat",
+    "en": "hat"
+  },
+  {
+    "es": "enfermera",
+    "pron": "ners",
+    "en": "nurse"
+  },
+  {
+    "es": "aeropuerto",
+    "pron": "erport",
+    "en": "airport"
+  },
+  {
+    "es": "cadena",
+    "pron": "chein",
+    "en": "chain"
+  },
+  {
+    "es": "cumpleaños",
+    "pron": "berzdei",
+    "en": "birthday"
+  },
+  {
+    "es": "rezar",
+    "pron": "prei",
+    "en": "pray"
+  },
+  {
+    "es": "moda",
+    "pron": "fashon",
+    "en": "fashion"
+  },
+  {
+    "es": "nieve",
+    "pron": "snou",
+    "en": "snow"
+  },
+  {
+    "es": "bomba",
+    "pron": "bom",
+    "en": "bomb"
+  },
+  {
+    "es": "beso",
+    "pron": "kis",
+    "en": "kiss"
+  },
+  {
+    "es": "ruido",
+    "pron": "nois",
+    "en": "noise"
+  },
+  {
+    "es": "rama",
+    "pron": "branch",
+    "en": "branch"
+  },
+  {
+    "es": "caballero",
+    "pron": "yentelman",
+    "en": "gentleman"
+  },
+  {
+    "es": "atleta",
+    "pron": "ázlit",
+    "en": "athlete"
+  },
+  {
+    "es": "baloncesto",
+    "pron": "básketbol",
+    "en": "basketball"
+  },
+  {
+    "es": "laboratorio",
+    "pron": "labóratori",
+    "en": "laboratory"
+  },
+  {
+    "es": "fila",
+    "pron": "rou",
+    "en": "row"
+  },
+  {
+    "es": "respirar",
+    "pron": "bríd",
+    "en": "breathe"
+  },
+  {
+    "es": "espejo",
+    "pron": "míror",
+    "en": "mirror"
+  },
+  {
+    "es": "piloto",
+    "pron": "páilot",
+    "en": "pilot"
+  },
+  {
+    "es": "leche",
+    "pron": "milk",
+    "en": "milk"
+  },
+  {
+    "es": "semilla",
+    "pron": "sid",
+    "en": "seed"
+  },
+  {
+    "es": "bicicleta",
+    "pron": "baik",
+    "en": "bike"
+  },
+  {
+    "es": "cuarto de baño",
+    "pron": "bázrum",
+    "en": "bathroom"
+  },
+  {
+    "es": "agenda",
+    "pron": "ayénda",
+    "en": "agenda"
+  },
+  {
+    "es": "biblia",
+    "pron": "báibel",
+    "en": "bible"
+  },
+  {
+    "es": "reina",
+    "pron": "kuín",
+    "en": "queen"
+  },
+  {
+    "es": "crema",
+    "pron": "krim",
+    "en": "cream"
+  },
+  {
+    "es": "suelo / tierra",
+    "pron": "graund",
+    "en": "ground"
+  },
+  {
+    "es": "ángel",
+    "pron": "éinchel",
+    "en": "angel"
+  },
+  {
+    "es": "tanque",
+    "pron": "tank",
+    "en": "tank"
+  },
+  {
+    "es": "queso",
+    "pron": "chis",
+    "en": "cheese"
+  },
+  {
+    "es": "horario",
+    "pron": "skédul",
+    "en": "schedule"
+  },
+  {
+    "es": "dormitorio",
+    "pron": "béd-rum",
+    "en": "bedroom"
+  },
+  {
+    "es": "rueda",
+    "pron": "uíil",
+    "en": "wheel"
+  },
+  {
+    "es": "brecha",
+    "pron": "gap",
+    "en": "gap"
+  },
+  {
+    "es": "plato",
+    "pron": "pleit",
+    "en": "plate"
+  },
+  {
+    "es": "imprimir",
+    "pron": "print",
+    "en": "print"
+  },
+  {
+    "es": "asesino",
+    "pron": "kíler",
+    "en": "killer"
+  },
+  {
+    "es": "paisaje",
+    "pron": "lándskeip",
+    "en": "landscape"
+  },
+  {
+    "es": "chupar",
+    "pron": "sak",
+    "en": "suck"
+  },
+  {
+    "es": "columna",
+    "pron": "kólom",
+    "en": "column"
+  },
+  {
+    "es": "botón",
+    "pron": "báton",
+    "en": "button"
+  },
+  {
+    "es": "golf",
+    "pron": "golf",
+    "en": "golf"
+  },
+  {
+    "es": "embarazada",
+    "pron": "prégnen",
+    "en": "pregnant"
+  },
+  {
+    "es": "estirar",
+    "pron": "stretʃ",
+    "en": "stretch"
+  },
+  {
+    "es": "cuchillo",
+    "pron": "náif",
+    "en": "knife"
+  },
+  {
+    "es": "industrial",
+    "pron": "indástrial",
+    "en": "industrial"
+  },
+  {
+    "es": "tiroteo",
+    "pron": "shúrin",
+    "en": "shooting"
+  },
+  {
+    "es": "capa",
+    "pron": "léier",
+    "en": "layer"
+  },
+  {
+    "es": "pan",
+    "pron": "bred",
+    "en": "bread"
+  },
+  {
+    "es": "publicación",
+    "pron": "pabliquéishon",
+    "en": "publication"
+  },
+  {
+    "es": "pasajero",
+    "pron": "pásendller",
+    "en": "passenger"
+  },
+  {
+    "es": "atmósfera",
+    "pron": "átmosfier",
+    "en": "atmosphere"
+  },
+  {
+    "es": "pimienta",
+    "pron": "péper",
+    "en": "pepper"
+  },
+  {
+    "es": "cable",
+    "pron": "kéibel",
+    "en": "cable"
+  },
+  {
+    "es": "plaza / cuadrado",
+    "pron": "skuér",
+    "en": "square"
+  },
+  {
+    "es": "receta",
+    "pron": "résipi",
+    "en": "recipe"
+  },
+  {
+    "es": "tejado",
+    "pron": "ruf",
+    "en": "roof"
+  },
+  {
+    "es": "verdura",
+    "pron": "védchtabol",
+    "en": "vegetable"
+  },
+  {
+    "es": "novia",
+    "pron": "gérlfrend",
+    "en": "girlfriend"
+  },
+  {
+    "es": "aparcamiento",
+    "pron": "párkin",
+    "en": "parking"
+  },
+  {
+    "es": "arroz",
+    "pron": "ráis",
+    "en": "rice"
+  },
+  {
+    "es": "enterrar",
+    "pron": "béri",
+    "en": "bury"
+  },
+  {
+    "es": "pastel",
+    "pron": "keik",
+    "en": "cake"
+  },
+  {
+    "es": "bandera",
+    "pron": "flag",
+    "en": "flag"
+  },
+  {
+    "es": "cárcel",
+    "pron": "yéil",
+    "en": "jail"
+  },
+  {
+    "es": "desayuno",
+    "pron": "brékfast",
+    "en": "breakfast"
+  },
+  {
+    "es": "grave",
+    "pron": "sivír",
+    "en": "severe"
+  },
+  {
+    "es": "academia",
+    "pron": "akádemi",
+    "en": "academy"
+  },
+  {
+    "es": "cucharadita",
+    "pron": "tíspun",
+    "en": "teaspoon"
+  },
+  {
+    "es": "avenida",
+    "pron": "áviniu",
+    "en": "avenue"
+  },
+  {
+    "es": "sacerdote",
+    "pron": "príst",
+    "en": "priest"
+  },
+  {
+    "es": "relajarse",
+    "pron": "riláks",
+    "en": "relax"
+  },
+  {
+    "es": "césped",
+    "pron": "gras",
+    "en": "grass"
+  },
+  {
+    "es": "humo",
+    "pron": "smouk",
+    "en": "smoke"
+  },
+  {
+    "es": "príncipe",
+    "pron": "prins",
+    "en": "prince"
+  },
+  {
+    "es": "interruptor",
+    "pron": "suích",
+    "en": "switch"
+  },
+  {
+    "es": "hierro",
+    "pron": "áiern",
+    "en": "iron"
+  },
+  {
+    "es": "arena",
+    "pron": "sand",
+    "en": "sand"
+  },
+  {
+    "es": "gorra",
+    "pron": "kap",
+    "en": "cap"
+  },
+  {
+    "es": "olla",
+    "pron": "pot",
+    "en": "pot"
+  },
+  {
+    "es": "novio",
+    "pron": "bóifrend",
+    "en": "boyfriend"
+  },
+  {
+    "es": "articulación",
+    "pron": "llóint",
+    "en": "joint"
+  },
+  {
+    "es": "cigarrillo",
+    "pron": "sigarét",
+    "en": "cigarette"
+  },
+  {
+    "es": "fábrica",
+    "pron": "fáktori",
+    "en": "factory"
+  },
+  {
+    "es": "gigante",
+    "pron": "cháiant",
+    "en": "giant"
+  },
+  {
+    "es": "esclavo",
+    "pron": "sleiv",
+    "en": "slave"
+  },
+  {
+    "es": "atar",
+    "pron": "baind",
+    "en": "bind"
+  },
+  {
+    "es": "abrigo",
+    "pron": "kout",
+    "en": "coat"
+  },
+  {
+    "es": "torre",
+    "pron": "táuer",
+    "en": "tower"
+  },
+  {
+    "es": "virus",
+    "pron": "váirus",
+    "en": "virus"
+  },
+  {
+    "es": "huracán",
+    "pron": "hárikein",
+    "en": "hurricane"
+  },
+  {
+    "es": "chaqueta",
+    "pron": "lláket",
+    "en": "jacket"
+  },
+  {
+    "es": "mamá",
+    "pron": "mam",
+    "en": "mom"
+  },
+  {
+    "es": "gemelo",
+    "pron": "tuin",
+    "en": "twin"
+  },
+  {
+    "es": "pantalón",
+    "pron": "pants",
+    "en": "pants"
+  },
+  {
+    "es": "juguete",
+    "pron": "toi",
+    "en": "toy"
+  },
+  {
+    "es": "cima",
+    "pron": "pik",
+    "en": "peak"
+  },
+  {
+    "es": "ira",
+    "pron": "ánguer",
+    "en": "anger"
+  },
+  {
+    "es": "bota",
+    "pron": "but",
+    "en": "boot"
+  },
+  {
+    "es": "deslizar",
+    "pron": "sláid",
+    "en": "slide"
+  },
+  {
+    "es": "polvo",
+    "pron": "dast",
+    "en": "dust"
+  },
+  {
+    "es": "zumo",
+    "pron": "yus",
+    "en": "juice"
+  },
+  {
+    "es": "garganta",
+    "pron": "zroat",
+    "en": "throat"
+  },
+  {
+    "es": "borrador",
+    "pron": "draft",
+    "en": "draft"
+  },
+  {
+    "es": "desorden",
+    "pron": "mes",
+    "en": "mess"
+  },
+  {
+    "es": "motor",
+    "pron": "motor",
+    "en": "motor"
+  },
+  {
+    "es": "primo",
+    "pron": "kásin",
+    "en": "cousin"
+  },
+  {
+    "es": "pesca",
+    "pron": "físhin",
+    "en": "fishing"
+  },
+  {
+    "es": "carbono",
+    "pron": "kárbon",
+    "en": "carbon"
+  },
+  {
+    "es": "cinturón",
+    "pron": "belt",
+    "en": "belt"
+  },
+  {
+    "es": "patata",
+    "pron": "potéito",
+    "en": "potato"
+  },
+  {
+    "es": "monstruo",
+    "pron": "mónster",
+    "en": "monster"
+  },
+  {
+    "es": "teléfono",
+    "pron": "télifoun",
+    "en": "telephone"
+  },
+  {
+    "es": "palma",
+    "pron": "pam",
+    "en": "palm"
+  },
+  {
+    "es": "reactor",
+    "pron": "llet",
+    "en": "jet"
+  },
+  {
+    "es": "ángulo",
+    "pron": "ángol",
+    "en": "angle"
+  },
+  {
+    "es": "prisionero",
+    "pron": "prísoner",
+    "en": "prisoner"
+  },
+  {
+    "es": "mantequilla",
+    "pron": "báder",
+    "en": "butter"
+  },
+  {
+    "es": "desierto",
+    "pron": "désert",
+    "en": "desert"
+  },
+  {
+    "es": "bala",
+    "pron": "búlet",
+    "en": "bullet"
+  },
+  {
+    "es": "pesar",
+    "pron": "uei",
+    "en": "weigh"
+  },
+  {
+    "es": "pandilla",
+    "pron": "gang",
+    "en": "gang"
+  },
+  {
+    "es": "reloj",
+    "pron": "klok",
+    "en": "clock"
+  },
+  {
+    "es": "penalización",
+    "pron": "pénalti",
+    "en": "penalty"
+  },
+  {
+    "es": "estómago",
+    "pron": "stámak",
+    "en": "stomach"
+  },
+  {
+    "es": "concierto",
+    "pron": "kónsert",
+    "en": "concert"
+  },
+  {
+    "es": "lobo",
+    "pron": "wulf",
+    "en": "wolf"
+  },
+  {
+    "es": "batería",
+    "pron": "báterri",
+    "en": "battery"
+  },
+  {
+    "es": "carril",
+    "pron": "lein",
+    "en": "lane"
+  },
+  {
+    "es": "judía / frijol",
+    "pron": "bin",
+    "en": "bean"
+  },
+  {
+    "es": "salsa",
+    "pron": "sos",
+    "en": "sauce"
+  },
+  {
+    "es": "cucharada",
+    "pron": "téibolspun",
+    "en": "tablespoon"
+  },
+  {
+    "es": "rosa",
+    "pron": "rouz",
+    "en": "rose"
+  },
+  {
+    "es": "fantasma",
+    "pron": "goust",
+    "en": "ghost"
+  },
+  {
+    "es": "ratón",
+    "pron": "maus",
+    "en": "mouse"
+  },
+  {
+    "es": "aerolínea",
+    "pron": "érlain",
+    "en": "airline"
+  },
+  {
+    "es": "plata",
+    "pron": "sílver",
+    "en": "silver"
+  },
+  {
+    "es": "centavo",
+    "pron": "sent",
+    "en": "cent"
+  },
+  {
+    "es": "chocolate",
+    "pron": "chóklat",
+    "en": "chocolate"
+  },
+  {
+    "es": "abuela",
+    "pron": "gránmazer",
+    "en": "grandmother"
+  },
+  {
+    "es": "áspero",
+    "pron": "raf",
+    "en": "rough"
+  },
+  {
+    "es": "crudo",
+    "pron": "ro",
+    "en": "raw"
+  },
+  {
+    "es": "campeón",
+    "pron": "chámpion",
+    "en": "champion"
+  },
+  {
+    "es": "mexicano",
+    "pron": "méksikan",
+    "en": "Mexican"
+  },
+  {
+    "es": "estadio",
+    "pron": "stéidiom",
+    "en": "stadium"
+  },
+  {
+    "es": "menú",
+    "pron": "ményu",
+    "en": "menu"
+  },
+  {
+    "es": "galleta",
+    "pron": "kúki",
+    "en": "cookie"
+  },
+  {
+    "es": "maíz",
+    "pron": "korn",
+    "en": "corn"
+  },
+  {
+    "es": "morder",
+    "pron": "bait",
+    "en": "bite"
+  },
+  {
+    "es": "palo",
+    "pron": "stik",
+    "en": "stick"
+  },
+  {
+    "es": "tigre",
+    "pron": "táiger",
+    "en": "tiger"
+  },
+  {
+    "es": "mascota",
+    "pron": "pet",
+    "en": "pet"
+  },
+  {
+    "es": "cohete",
+    "pron": "róket",
+    "en": "rocket"
+  },
+  {
+    "es": "nuez",
+    "pron": "nat",
+    "en": "nut"
+  },
+  {
+    "es": "luchador",
+    "pron": "fáiter",
+    "en": "fighter"
+  },
+  {
+    "es": "tomate",
+    "pron": "toméito",
+    "en": "tomato"
+  },
+  {
+    "es": "galaxia",
+    "pron": "gálaksi",
+    "en": "galaxy"
+  },
+  {
+    "es": "esquema",
+    "pron": "skim",
+    "en": "scheme"
+  },
+  {
+    "es": "tubo",
+    "pron": "tiub",
+    "en": "tube"
+  },
+  {
+    "es": "chef",
+    "pron": "chef",
+    "en": "chef"
+  },
+  {
+    "es": "feo",
+    "pron": "ágli",
+    "en": "ugly"
+  },
+  {
+    "es": "tornillo",
+    "pron": "skrú",
+    "en": "screw"
+  },
+  {
+    "es": "lengua",
+    "pron": "tang",
+    "en": "tongue"
+  },
+  {
+    "es": "choque",
+    "pron": "krash",
+    "en": "crash"
+  },
+  {
+    "es": "grifo",
+    "pron": "tap",
+    "en": "tap"
+  },
+  {
+    "es": "puerto",
+    "pron": "port",
+    "en": "port"
+  },
+  {
+    "es": "cita (ej. médica)",
+    "pron": "apóintment",
+    "en": "appointment"
+  },
+  {
+    "es": "ducha",
+    "pron": "sháuer",
+    "en": "shower"
+  },
+  {
+    "es": "suplicar",
+    "pron": "beg",
+    "en": "beg"
+  },
+  {
+    "es": "ordenador",
+    "pron": "pí-si",
+    "en": "PC"
+  },
+  {
+    "es": "campana",
+    "pron": "bel",
+    "en": "bell"
+  },
+  {
+    "es": "turista",
+    "pron": "túrist",
+    "en": "tourist"
+  },
+  {
+    "es": "mejilla",
+    "pron": "chik",
+    "en": "cheek"
+  },
+  {
+    "es": "torneo",
+    "pron": "tórnament",
+    "en": "tournament"
+  },
+  {
+    "es": "medicación",
+    "pron": "mediquéishon",
+    "en": "medication"
+  },
+  {
+    "es": "diablo",
+    "pron": "dévol",
+    "en": "devil"
+  },
+  {
+    "es": "valla",
+    "pron": "fens",
+    "en": "fence"
+  },
+  {
+    "es": "funeral",
+    "pron": "fiúneral",
+    "en": "funeral"
+  },
+  {
+    "es": "fregadero",
+    "pron": "sink",
+    "en": "sink"
+  },
+  {
+    "es": "ruina",
+    "pron": "rúin",
+    "en": "ruin"
+  },
+  {
+    "es": "cantante",
+    "pron": "sínger",
+    "en": "singer"
+  },
+  {
+    "es": "borracho",
+    "pron": "drank",
+    "en": "drunk"
+  },
+  {
+    "es": "nadar",
+    "pron": "suim",
+    "en": "swim"
+  },
+  {
+    "es": "cebolla",
+    "pron": "ánion",
+    "en": "onion"
+  },
+  {
+    "es": "sartén",
+    "pron": "pan",
+    "en": "pan"
+  },
+  {
+    "es": "barrer",
+    "pron": "suip",
+    "en": "sweep"
+  },
+  {
+    "es": "desnudo",
+    "pron": "néiked",
+    "en": "naked"
+  },
+  {
+    "es": "león",
+    "pron": "láion",
+    "en": "lion"
+  },
+  {
+    "es": "dibujo",
+    "pron": "dróing",
+    "en": "drawing"
+  },
+  {
+    "es": "rata",
+    "pron": "rat",
+    "en": "rat"
+  },
+  {
+    "es": "cola",
+    "pron": "teil",
+    "en": "tail"
+  },
+  {
+    "es": "naranja",
+    "pron": "óranch",
+    "en": "orange"
+  },
+  {
+    "es": "ensalada",
+    "pron": "sálad",
+    "en": "salad"
+  },
+  {
+    "es": "cerdo",
+    "pron": "pig",
+    "en": "pig"
+  },
+  {
+    "es": "vaca",
+    "pron": "kau",
+    "en": "cow"
+  },
+  {
+    "es": "tarta",
+    "pron": "pai",
+    "en": "pie"
+  },
+  {
+    "es": "complejo turístico",
+    "pron": "rizórt",
+    "en": "resort"
+  },
+  {
+    "es": "abuelo",
+    "pron": "gránfazer",
+    "en": "grandfather"
+  },
+  {
+    "es": "herida",
+    "pron": "wund",
+    "en": "wound"
+  },
+  {
+    "es": "máscara",
+    "pron": "mask",
+    "en": "mask"
+  },
+  {
+    "es": "pulmón",
+    "pron": "lang",
+    "en": "lung"
+  },
+  {
+    "es": "entrada",
+    "pron": "éntrans",
+    "en": "entrance"
+  },
+  {
+    "es": "armario",
+    "pron": "kábinet",
+    "en": "cabinet"
+  },
+  {
+    "es": "caramelo",
+    "pron": "kándi",
+    "en": "candy"
+  },
+  {
+    "es": "estantería",
+    "pron": "shelf",
+    "en": "shelf"
+  },
+  {
+    "es": "guerrero",
+    "pron": "wórrior",
+    "en": "warrior"
+  },
+  {
+    "es": "garaje",
+    "pron": "garásh",
+    "en": "garage"
+  },
+  {
+    "es": "horno",
+    "pron": "óven",
+    "en": "oven"
+  },
+  {
+    "es": "diamante",
+    "pron": "dáiomond",
+    "en": "diamond"
+  },
+  {
+    "es": "brillar",
+    "pron": "sháin",
+    "en": "shine"
+  },
+  {
+    "es": "supermercado",
+    "pron": "grósheri",
+    "en": "grocery"
+  },
+  {
+    "es": "tubería",
+    "pron": "paip",
+    "en": "pipe"
+  },
+  {
+    "es": "sopa",
+    "pron": "sup",
+    "en": "soup"
+  },
+  {
+    "es": "pizza",
+    "pron": "pítsa",
+    "en": "pizza"
+  },
+  {
+    "es": "águila",
+    "pron": "ígol",
+    "en": "eagle"
+  },
+  {
+    "es": "neumático",
+    "pron": "táir",
+    "en": "tire"
+  },
+  {
+    "es": "maquillaje",
+    "pron": "méikeap",
+    "en": "makeup"
+  },
+  {
+    "es": "triste",
+    "pron": "sad",
+    "en": "sad"
+  },
+  {
+    "es": "confirmar",
+    "pron": "konfírm",
+    "en": "confirm"
+  },
+  {
+    "es": "afortunado",
+    "pron": "láki",
+    "en": "lucky"
+  },
+  {
+    "es": "insistir",
+    "pron": "insíst",
+    "en": "insist"
+  },
+  {
+    "es": "orgulloso",
+    "pron": "praud",
+    "en": "proud"
+  },
+  {
+    "es": "enfadado",
+    "pron": "ángri",
+    "en": "angry"
+  },
+  {
+    "es": "correo electrónico",
+    "pron": "ímeil",
+    "en": "email"
+  },
+  {
+    "es": "accidente",
+    "pron": "áksident",
+    "en": "accident"
+  },
+  {
+    "es": "expandir",
+    "pron": "ikspánd",
+    "en": "expand"
+  },
+  {
+    "es": "lanzar",
+    "pron": "lónch",
+    "en": "launch"
+  },
+  {
+    "es": "tendencia",
+    "pron": "trend",
+    "en": "trend"
+  },
+  {
+    "es": "repetir",
+    "pron": "ripít",
+    "en": "repeat"
+  },
+  {
+    "es": "aliento",
+    "pron": "brez",
+    "en": "breath"
+  },
+  {
+    "es": "lento",
+    "pron": "slou",
+    "en": "slow"
+  },
+  {
+    "es": "suave",
+    "pron": "soft",
+    "en": "soft"
+  },
+  {
+    "es": "barato",
+    "pron": "chip",
+    "en": "cheap"
+  },
+  {
+    "es": "estudio",
+    "pron": "stúdio",
+    "en": "studio"
+  },
+  {
+    "es": "caro",
+    "pron": "ikspénsiv",
+    "en": "expensive"
+  },
+  {
+    "es": "secreto",
+    "pron": "sícret",
+    "en": "secret"
+  },
+  {
+    "es": "adoptar",
+    "pron": "adópt",
+    "en": "adopt"
+  },
+  {
+    "es": "suerte",
+    "pron": "lak",
+    "en": "luck"
+  },
+  {
+    "es": "panel",
+    "pron": "pánel",
+    "en": "panel"
+  },
+  {
+    "es": "desaparecer",
+    "pron": "disapíar",
+    "en": "disappear"
+  },
+  {
+    "es": "ejercicio",
+    "pron": "éksersais",
+    "en": "exercise"
+  },
+  {
+    "es": "cansado",
+    "pron": "táierd",
+    "en": "tired"
+  },
+  {
+    "es": "configuración",
+    "pron": "sétin",
+    "en": "setting"
+  },
+  {
+    "es": "equipo",
+    "pron": "kru",
+    "en": "crew"
+  },
+  {
+    "es": "broma",
+    "pron": "yók",
+    "en": "joke"
+  },
+  {
+    "es": "comida",
+    "pron": "mil",
+    "en": "meal"
+  },
+  {
+    "es": "anfitrión",
+    "pron": "jóst",
+    "en": "host"
+  },
+  {
+    "es": "jefe",
+    "pron": "bos",
+    "en": "boss"
+  },
+  {
+    "es": "belleza",
+    "pron": "biúti",
+    "en": "beauty"
+  },
+  {
+    "es": "plástico",
+    "pron": "plástik",
+    "en": "plastic"
+  },
+  {
+    "es": "marca",
+    "pron": "mark",
+    "en": "mark"
+  },
+  {
+    "es": "aborto",
+    "pron": "abórshon",
+    "en": "abortion"
+  },
+  {
+    "es": "arresto",
+    "pron": "arést",
+    "en": "arrest"
+  },
+  {
+    "es": "culpable",
+    "pron": "gílti",
+    "en": "guilty"
+  },
+  {
+    "es": "escalar",
+    "pron": "kláim",
+    "en": "climb"
+  },
+  {
+    "es": "sombra",
+    "pron": "shádo",
+    "en": "shadow"
+  },
+  {
+    "es": "placer",
+    "pron": "plézher",
+    "en": "pleasure"
+  },
+  {
+    "es": "llamar a la puerta",
+    "pron": "nok",
+    "en": "knock"
+  },
+  {
+    "es": "perseguir",
+    "pron": "persú",
+    "en": "pursue"
+  },
+  {
+    "es": "gen",
+    "pron": "yin",
+    "en": "gene"
+  },
+  {
+    "es": "contra",
+    "pron": "vérsus",
+    "en": "vs"
+  },
+  {
+    "es": "cerradura",
+    "pron": "lok",
+    "en": "lock"
+  },
+  {
+    "es": "canal",
+    "pron": "chánel",
+    "en": "channel"
+  },
+  {
+    "es": "guía",
+    "pron": "gáid",
+    "en": "guide"
+  },
+  {
+    "es": "escapar",
+    "pron": "eskéip",
+    "en": "escape"
+  },
+  {
+    "es": "eliminar",
+    "pron": "elimíneit",
+    "en": "eliminate"
+  },
+  {
+    "es": "mezclar",
+    "pron": "miks",
+    "en": "mix"
+  },
+  {
+    "es": "resbalar",
+    "pron": "slip",
+    "en": "slip"
+  },
+  {
+    "es": "músculo",
+    "pron": "másel",
+    "en": "muscle"
+  },
+  {
+    "es": "señal",
+    "pron": "sígnal",
+    "en": "signal"
+  },
+  {
+    "es": "aplicación",
+    "pron": "ap",
+    "en": "app"
+  },
+  {
+    "es": "rechazar",
+    "pron": "rihékt",
+    "en": "reject"
+  },
+  {
+    "es": "oler",
+    "pron": "smel",
+    "en": "smell"
+  },
+  {
+    "es": "sólido",
+    "pron": "sólid",
+    "en": "solid"
+  },
+  {
+    "es": "hacer clic",
+    "pron": "klik",
+    "en": "click"
+  },
+  {
+    "es": "marco",
+    "pron": "freim",
+    "en": "frame"
+  },
+  {
+    "es": "inmigración",
+    "pron": "imigreiʃon",
+    "en": "immigration"
+  },
+  {
+    "es": "observación",
+    "pron": "obsérveiʃon",
+    "en": "observation"
+  },
+  {
+    "es": "sabor",
+    "pron": "teist",
+    "en": "taste"
+  },
+  {
+    "es": "advertencia",
+    "pron": "wórnin",
+    "en": "warning"
+  },
+  {
+    "es": "cielo",
+    "pron": "héven",
+    "en": "heaven"
+  },
+  {
+    "es": "flujo",
+    "pron": "flou",
+    "en": "flow"
+  },
+  {
+    "es": "dieta",
+    "pron": "dái-et",
+    "en": "diet"
+  },
+  {
+    "es": "silencio",
+    "pron": "sáilens",
+    "en": "silence"
+  },
+  {
+    "es": "periodista",
+    "pron": "yérnalist",
+    "en": "journalist"
+  },
+  {
+    "es": "veterano",
+    "pron": "vétreran",
+    "en": "veteran"
+  },
+  {
+    "es": "proteína",
+    "pron": "prótein",
+    "en": "protein"
+  },
+  {
+    "es": "envolver",
+    "pron": "rap",
+    "en": "wrap"
+  },
+  {
+    "es": "puerta / acceso",
+    "pron": "gueit",
+    "en": "gate"
+  },
+  {
+    "es": "altura",
+    "pron": "jait",
+    "en": "height"
+  },
+  {
+    "es": "alcohol",
+    "pron": "álcohol",
+    "en": "alcohol"
+  },
+  {
+    "es": "lavar",
+    "pron": "uash",
+    "en": "wash"
+  },
+  {
+    "es": "asustado",
+    "pron": "skéerd",
+    "en": "scared"
+  },
+  {
+    "es": "cavar",
+    "pron": "dig",
+    "en": "dig"
+  },
+  {
+    "es": "riqueza",
+    "pron": "uélz",
+    "en": "wealth"
+  },
+  {
+    "es": "pobreza",
+    "pron": "póverti",
+    "en": "poverty"
+  },
+  {
+    "es": "redondo",
+    "pron": "raund",
+    "en": "round"
+  },
+  {
+    "es": "paquete",
+    "pron": "pak",
+    "en": "pack"
+  },
+  {
+    "es": "chip",
+    "pron": "chip",
+    "en": "chip"
+  },
+  {
+    "es": "comando",
+    "pron": "kománd",
+    "en": "command"
+  },
+  {
+    "es": "autopista",
+    "pron": "jáiwei",
+    "en": "highway"
+  },
+  {
+    "es": "instalar",
+    "pron": "instól",
+    "en": "install"
+  },
+  {
+    "es": "libertad",
+    "pron": "líberti",
+    "en": "liberty"
+  },
+  {
+    "es": "afilado",
+    "pron": "shárp",
+    "en": "sharp"
+  },
+  {
+    "es": "carga",
+    "pron": "loud",
+    "en": "load"
+  },
+  {
+    "es": "territorio",
+    "pron": "térri-tori",
+    "en": "territory"
+  },
+  {
+    "es": "nervioso",
+    "pron": "nérvos",
+    "en": "nervous"
+  },
+  {
+    "es": "anónimo",
+    "pron": "anóniməs",
+    "en": "anonymous"
+  },
+  {
+    "es": "gritar",
+    "pron": "shaút",
+    "en": "shout"
+  },
+  {
+    "es": "jurar",
+    "pron": "suér",
+    "en": "swear"
+  },
+  {
+    "es": "enfermedad",
+    "pron": "ílnes",
+    "en": "illness"
+  },
+  {
+    "es": "festival",
+    "pron": "féstival",
+    "en": "festival"
+  },
+  {
+    "es": "mecanismo",
+    "pron": "mékanism",
+    "en": "mechanism"
+  },
+  {
+    "es": "escenario",
+    "pron": "senário",
+    "en": "scenario"
+  },
+  {
+    "es": "eléctrico",
+    "pron": "eléktrik",
+    "en": "electric"
+  },
+  {
+    "es": "participación",
+    "pron": "partisipeishon",
+    "en": "participation"
+  },
+  {
+    "es": "Twitter",
+    "pron": "tuíter",
+    "en": "Twitter"
+  },
+  {
+    "es": "correo",
+    "pron": "meil",
+    "en": "mail"
+  },
+  {
+    "es": "protesta",
+    "pron": "prótest",
+    "en": "protest"
+  },
+  {
+    "es": "tía",
+    "pron": "ant",
+    "en": "aunt"
+  },
+  {
+    "es": "galería",
+    "pron": "gálery",
+    "en": "gallery"
+  },
+  {
+    "es": "acero",
+    "pron": "stil",
+    "en": "steel"
+  },
+  {
+    "es": "salario",
+    "pron": "sálari",
+    "en": "salary"
+  },
+  {
+    "es": "disciplina",
+    "pron": "dísiplin",
+    "en": "discipline"
+  },
+  {
+    "es": "estadísticas",
+    "pron": "statístiks",
+    "en": "statistics"
+  },
+  {
+    "es": "perdonar",
+    "pron": "forgív",
+    "en": "forgive"
+  },
+  {
+    "es": "amigo",
+    "pron": "bádi",
+    "en": "buddy"
+  },
+  {
+    "es": "hambriento",
+    "pron": "hángri",
+    "en": "hungry"
+  },
+  {
+    "es": "fantasía",
+    "pron": "fántasi",
+    "en": "fantasy"
+  },
+  {
+    "es": "independencia",
+    "pron": "indepéndens",
+    "en": "independence"
+  },
+  {
+    "es": "cable",
+    "pron": "uáir",
+    "en": "wire"
+  },
+  {
+    "es": "susurrar",
+    "pron": "uíspers",
+    "en": "whisper"
+  },
+  {
+    "es": "misil",
+    "pron": "mísail",
+    "en": "missile"
+  },
+  {
+    "es": "aventura",
+    "pron": "advéncher",
+    "en": "adventure"
+  },
+  {
+    "es": "mojado",
+    "pron": "uet",
+    "en": "wet"
+  },
+  {
+    "es": "barrera",
+    "pron": "bárier",
+    "en": "barrier"
+  },
+  {
+    "es": "etiqueta",
+    "pron": "léibel",
+    "en": "label"
+  },
+  {
+    "es": "horrible",
+    "pron": "hórribol",
+    "en": "horrible"
+  },
+  {
+    "es": "almacenamiento",
+    "pron": "stórich",
+    "en": "storage"
+  },
+  {
+    "es": "destacar",
+    "pron": "jáilaït",
+    "en": "highlight"
+  },
+  {
+    "es": "congelar",
+    "pron": "frís",
+    "en": "freeze"
+  },
+  {
+    "es": "risa",
+    "pron": "láfter",
+    "en": "laughter"
+  },
+  {
+    "es": "ingrediente",
+    "pron": "ingrídiant",
+    "en": "ingredient"
+  },
+  {
+    "es": "concentrarse",
+    "pron": "konséntreit",
+    "en": "concentrate"
+  },
+  {
+    "es": "plano",
+    "pron": "flat",
+    "en": "flat"
+  },
+  {
+    "es": "tribu",
+    "pron": "traib",
+    "en": "tribe"
+  },
+  {
+    "es": "preocupado",
+    "pron": "wórrid",
+    "en": "worried"
+  },
+  {
+    "es": "adiós",
+    "pron": "bái",
+    "en": "bye"
+  },
+  {
+    "es": "compras",
+    "pron": "shópin",
+    "en": "shopping"
+  },
+  {
+    "es": "embarazo",
+    "pron": "prégnesi",
+    "en": "pregnancy"
+  },
+  {
+    "es": "satélite",
+    "pron": "sátelait",
+    "en": "satellite"
+  },
+  {
+    "es": "fibra",
+    "pron": "fáiber",
+    "en": "fiber"
+  },
+  {
+    "es": "amistad",
+    "pron": "fréndship",
+    "en": "friendship"
+  },
+  {
+    "es": "superviviente",
+    "pron": "sərváivor",
+    "en": "survivor"
+  },
+  {
+    "es": "cubierta",
+    "pron": "dek",
+    "en": "deck"
+  },
+  {
+    "es": "hornear",
+    "pron": "beik",
+    "en": "bake"
+  },
+  {
+    "es": "magia",
+    "pron": "máyik",
+    "en": "magic"
+  },
+  {
+    "es": "fotógrafo",
+    "pron": "fotógráfer",
+    "en": "photographer"
+  },
+  {
+    "es": "compromiso",
+    "pron": "enguédchment",
+    "en": "engagement"
+  },
+  {
+    "es": "divorcio",
+    "pron": "divórss",
+    "en": "divorce"
+  },
+  {
+    "es": "ácido",
+    "pron": "ásid",
+    "en": "acid"
+  },
+  {
+    "es": "castigo",
+    "pron": "pánishment",
+    "en": "punishment"
+  },
+  {
+    "es": "muebles",
+    "pron": "férnicher",
+    "en": "furniture"
+  },
+  {
+    "es": "sabor",
+    "pron": "fléivor",
+    "en": "flavor"
+  },
+  {
+    "es": "talón",
+    "pron": "jíl",
+    "en": "heel"
+  },
+  {
+    "es": "falso",
+    "pron": "feik",
+    "en": "fake"
+  },
+  {
+    "es": "fama",
+    "pron": "feim",
+    "en": "fame"
+  },
+  {
+    "es": "olímpico",
+    "pron": "olímpik",
+    "en": "olympic"
+  },
+  {
+    "es": "celebración",
+    "pron": "selebréishon",
+    "en": "celebration"
+  },
+  {
+    "es": "obispo",
+    "pron": "bíshop",
+    "en": "bishop"
+  },
+  {
+    "es": "cercano",
+    "pron": "níer-bai",
+    "en": "nearby"
+  },
+  {
+    "es": "combinar",
+    "pron": "kombáin",
+    "en": "combine"
+  },
+  {
+    "es": "diciembre",
+    "pron": "disémber",
+    "en": "December"
+  },
+  {
+    "es": "en cualquier",
+    "pron": "lugar éniuer",
+    "en": "anywhere"
+  },
+  {
+    "es": "abuso",
+    "pron": "abiús",
+    "en": "abuse"
+  },
+  {
+    "es": "construcción",
+    "pron": "konstrákshon",
+    "en": "construction"
+  },
+  {
+    "es": "miércoles",
+    "pron": "uénsdei",
+    "en": "Wednesday"
+  },
+  {
+    "es": "merecer",
+    "pron": "dizérv",
+    "en": "deserve"
+  },
+  {
+    "es": "intervención",
+    "pron": "intervénshon",
+    "en": "intervention"
+  },
+  {
+    "es": "grandioso",
+    "pron": "grand",
+    "en": "grand"
+  },
+  {
+    "es": "cuarto",
+    "pron": "fórz",
+    "en": "fourth"
+  },
+  {
+    "es": "nativo",
+    "pron": "néitiv",
+    "en": "native"
+  },
+  {
+    "es": "supremo",
+    "pron": "suprím",
+    "en": "supreme"
+  },
+  {
+    "es": "deber",
+    "pron": "diúti",
+    "en": "duty"
+  },
+  {
+    "es": "creciente",
+    "pron": "gróuin",
+    "en": "growing"
+  },
+  {
+    "es": "lucha",
+    "pron": "strágol",
+    "en": "struggle"
+  },
+  {
+    "es": "ingresos",
+    "pron": "réveniu",
+    "en": "revenue"
+  },
+  {
+    "es": "pulgada",
+    "pron": "inch",
+    "en": "inch"
+  },
+  {
+    "es": "núcleo",
+    "pron": "kór",
+    "en": "core"
+  },
+  {
+    "es": "terrible",
+    "pron": "téribol",
+    "en": "terrible"
+  },
+  {
+    "es": "relativamente",
+    "pron": "rélativli",
+    "en": "relatively"
+  },
+  {
+    "es": "complejo",
+    "pron": "kómpleks",
+    "en": "complex"
+  },
+  {
+    "es": "generar",
+    "pron": "yéneréit",
+    "en": "generate"
+  },
+  {
+    "es": "extremadamente",
+    "pron": "ikstrímli",
+    "en": "extremely"
+  },
+  {
+    "es": "para siempre",
+    "pron": "foréver",
+    "en": "forever"
+  },
+  {
+    "es": "corporativo",
+    "pron": "kórporit",
+    "en": "corporate"
+  },
+  {
+    "es": "preferir",
+    "pron": "prifér",
+    "en": "prefer"
+  },
+  {
+    "es": "excepto",
+    "pron": "iksépt",
+    "en": "except"
+  },
+  {
+    "es": "literatura",
+    "pron": "líterachur",
+    "en": "literature"
+  },
+  {
+    "es": "importancia",
+    "pron": "impórtans",
+    "en": "importance"
+  },
+  {
+    "es": "emocional",
+    "pron": "imóushonal",
+    "en": "emotional"
+  },
+  {
+    "es": "capturar",
+    "pron": "káptcher",
+    "en": "capture"
+  },
+  {
+    "es": "maldito (vulgar)",
+    "pron": "fákin",
+    "en": "fucking"
+  },
+  {
+    "es": "ahora",
+    "pron": "nau",
+    "en": "now"
+  },
+  {
+    "es": "equipo",
+    "pron": "ikuípment",
+    "en": "equipment"
+  },
+  {
+    "es": "seleccionar",
+    "pron": "silékt",
+    "en": "select"
+  },
+  {
+    "es": "vía",
+    "pron": "vái-a",
+    "en": "via"
+  },
+  {
+    "es": "tarde (hora)",
+    "pron": "pí-em",
+    "en": "PM"
+  },
+  {
+    "es": "crítico",
+    "pron": "krítik",
+    "en": "critic"
+  },
+  {
+    "es": "resolver",
+    "pron": "solv",
+    "en": "solve"
+  },
+  {
+    "es": "ocupado",
+    "pron": "bísi",
+    "en": "busy"
+  },
+  {
+    "es": "episodio",
+    "pron": "épisoʊd",
+    "en": "episode"
+  },
+  {
+    "es": "requisito",
+    "pron": "rikuáierment",
+    "en": "requirement"
+  },
+  {
+    "es": "político",
+    "pron": "politíshan",
+    "en": "politician"
+  },
+  {
+    "es": "colega",
+    "pron": "kólig",
+    "en": "colleague"
+  },
+  {
+    "es": "predecir",
+    "pron": "pridíkt",
+    "en": "predict"
+  },
+  {
+    "es": "democracia",
+    "pron": "dimókrasi",
+    "en": "democracy"
+  },
+  {
+    "es": "finalmente",
+    "pron": "áltimetli",
+    "en": "ultimately"
+  },
+  {
+    "es": "honor",
+    "pron": "ónor",
+    "en": "honor"
+  },
+  {
+    "es": "desafortunadamente",
+    "pron": "anforchónetli",
+    "en": "unfortunately"
+  },
+  {
+    "es": "tema",
+    "pron": "zim",
+    "en": "theme"
+  },
+  {
+    "es": "unido",
+    "pron": "iunáited",
+    "en": "united"
+  },
+  {
+    "es": "educativo",
+    "pron": "ediukéishonal",
+    "en": "educational"
+  },
+  {
+    "es": "cómodo",
+    "pron": "kómftorbol",
+    "en": "comfortable"
+  },
+  {
+    "es": "investigar",
+    "pron": "investiguéit",
+    "en": "investigate"
+  },
+  {
+    "es": "útil",
+    "pron": "iúsful",
+    "en": "useful"
+  },
+  {
+    "es": "digital",
+    "pron": "díyital",
+    "en": "digital"
+  },
+  {
+    "es": "mucho",
+    "pron": "plénti",
+    "en": "plenty"
+  },
+  {
+    "es": "completamente",
+    "pron": "intáirli",
+    "en": "entirely"
+  },
+  {
+    "es": "permitirse",
+    "pron": "afórd",
+    "en": "afford"
+  },
+  {
+    "es": "enseñanza",
+    "pron": "tíchin",
+    "en": "teaching"
+  },
+  {
+    "es": "conservador",
+    "pron": "konsérvativ",
+    "en": "conservative"
+  },
+  {
+    "es": "presidente",
+    "pron": "chérman",
+    "en": "chairman"
+  },
+  {
+    "es": "error",
+    "pron": "érror",
+    "en": "error"
+  },
+  {
+    "es": "específicamente",
+    "pron": "spesífikali",
+    "en": "specifically"
+  },
+  {
+    "es": "reconocer",
+    "pron": "aknóllich",
+    "en": "acknowledge"
+  },
+  {
+    "es": "cobertura",
+    "pron": "kóverich",
+    "en": "coverage"
+  },
+  {
+    "es": "localizar",
+    "pron": "lóukeit",
+    "en": "locate"
+  },
+  {
+    "es": "equilibrio",
+    "pron": "bálans",
+    "en": "balance"
+  },
+  {
+    "es": "igual",
+    "pron": "íkuol",
+    "en": "equal"
+  },
+  {
+    "es": "inclinarse",
+    "pron": "lin",
+    "en": "lean"
+  },
+  {
+    "es": "zona",
+    "pron": "zoun",
+    "en": "zone"
+  },
+  {
+    "es": "usado",
+    "pron": "iust",
+    "en": "used"
+  },
+  {
+    "es": "soportar",
+    "pron": "ber",
+    "en": "bear"
+  },
+  {
+    "es": "minoría",
+    "pron": "mainóriti",
+    "en": "minority"
+  },
+  {
+    "es": "vista",
+    "pron": "sáit",
+    "en": "sight"
+  },
+  {
+    "es": "soviético",
+    "pron": "sóviet",
+    "en": "Soviet"
+  },
+  {
+    "es": "beneficio",
+    "pron": "prófit",
+    "en": "profit"
+  },
+  {
+    "es": "cuidadoso",
+    "pron": "kérful",
+    "en": "careful"
+  },
+  {
+    "es": "género",
+    "pron": "yénder",
+    "en": "gender"
+  },
+  {
+    "es": "no identificado",
+    "pron": "ananáidifáid",
+    "en": "unidentified"
+  },
+  {
+    "es": "conceder",
+    "pron": "grant",
+    "en": "grant"
+  },
+  {
+    "es": "circunstancia",
+    "pron": "sércomstans",
+    "en": "circumstance"
+  },
+  {
+    "es": "declarar",
+    "pron": "diklér",
+    "en": "declare"
+  },
+  {
+    "es": "doméstico",
+    "pron": "doméstik",
+    "en": "domestic"
+  },
+  {
+    "es": "organizar",
+    "pron": "órganáiz",
+    "en": "organize"
+  },
+  {
+    "es": "inglés",
+    "pron": "ínglish",
+    "en": "English"
+  },
+  {
+    "es": "ninguno de los",
+    "pron": "dos náider",
+    "en": "neither"
+  },
+  {
+    "es": "rodear",
+    "pron": "saráund",
+    "en": "surround"
+  },
+  {
+    "es": "manera",
+    "pron": "máner",
+    "en": "manner"
+  },
+  {
+    "es": "sorprendido",
+    "pron": "serpráisd",
+    "en": "surprised"
+  },
+  {
+    "es": "porcentaje",
+    "pron": "perséntich",
+    "en": "percentage"
+  },
+  {
+    "es": "masivo",
+    "pron": "mésiv",
+    "en": "massive"
+  },
+  {
+    "es": "honesto",
+    "pron": "ónest",
+    "en": "honest"
+  },
+  {
+    "es": "proponer",
+    "pron": "propóuz",
+    "en": "propose"
+  },
+  {
+    "es": "depender",
+    "pron": "de rilái",
+    "en": "rely"
+  },
+  {
+    "es": "más / además",
+    "pron": "plas",
+    "en": "plus"
+  },
+  {
+    "es": "frase / condena",
+    "pron": "séntens",
+    "en": "sentence"
+  },
+  {
+    "es": "solicitud",
+    "pron": "rikuést",
+    "en": "request"
+  },
+  {
+    "es": "apariencia",
+    "pron": "apíerans",
+    "en": "appearance"
+  },
+  {
+    "es": "respecto",
+    "pron": "a rigárdin",
+    "en": "regarding"
+  },
+  {
+    "es": "excelente",
+    "pron": "ékselent",
+    "en": "excellent"
+  },
+  {
+    "es": "componente",
+    "pron": "kompónent",
+    "en": "component"
+  },
+  {
+    "es": "tarifa",
+    "pron": "fí",
+    "en": "fee"
+  },
+  {
+    "es": "tuyo",
+    "pron": "yórz",
+    "en": "yours"
+  },
+  {
+    "es": "seco",
+    "pron": "drái",
+    "en": "dry"
+  },
+  {
+    "es": "propina / consejo",
+    "pron": "tip",
+    "en": "tip"
+  },
+  {
+    "es": "ilegal",
+    "pron": "ilígal",
+    "en": "illegal"
+  },
+  {
+    "es": "significativamente",
+    "pron": "signífikantli",
+    "en": "significantly"
+  },
+  {
+    "es": "febrero",
+    "pron": "fébruari",
+    "en": "February"
+  },
+  {
+    "es": "constitución",
+    "pron": "konstitúshon",
+    "en": "constitution"
+  },
+  {
+    "es": "definición",
+    "pron": "definíshon",
+    "en": "definition"
+  },
+  {
+    "es": "uno mismo",
+    "pron": "self",
+    "en": "self"
+  },
+  {
+    "es": "suponer",
+    "pron": "supóuz",
+    "en": "suppose"
+  },
+  {
+    "es": "inversor",
+    "pron": "invéstor",
+    "en": "investor"
+  },
+  {
+    "es": "santo",
+    "pron": "jóuli",
+    "en": "holy"
+  },
+  {
+    "es": "oriental",
+    "pron": "ístern",
+    "en": "eastern"
+  },
+  {
+    "es": "valle",
+    "pron": "váli",
+    "en": "valley"
+  },
+  {
+    "es": "en gran medida",
+    "pron": "lárchli",
+    "en": "largely"
+  },
+  {
+    "es": "capítulo",
+    "pron": "cháptar",
+    "en": "chapter"
+  },
+  {
+    "es": "compromiso",
+    "pron": "komítment",
+    "en": "commitment"
+  },
+  {
+    "es": "principal",
+    "pron": "práim",
+    "en": "prime"
+  },
+  {
+    "es": "urbano",
+    "pron": "érban",
+    "en": "urban"
+  },
+  {
+    "es": "interno",
+    "pron": "intérnal",
+    "en": "internal"
+  },
+  {
+    "es": "molestar",
+    "pron": "báder",
+    "en": "bother"
+  },
+  {
+    "es": "propuesta",
+    "pron": "propóusal",
+    "en": "proposal"
+  },
+  {
+    "es": "cambio",
+    "pron": "shift",
+    "en": "shift"
+  },
+  {
+    "es": "capacidad",
+    "pron": "kapásiti",
+    "en": "capacity"
+  },
+  {
+    "es": "advertir",
+    "pron": "uórn",
+    "en": "warn"
+  },
+  {
+    "es": "influir",
+    "pron": "ínfluens",
+    "en": "influence"
+  },
+  {
+    "es": "débil",
+    "pron": "uíik",
+    "en": "weak"
+  },
+  {
+    "es": "católico",
+    "pron": "kátholik",
+    "en": "catholic"
+  },
+  {
+    "es": "variable",
+    "pron": "vériabol",
+    "en": "variable"
+  },
+  {
+    "es": "convención",
+    "pron": "konvénshon",
+    "en": "convention"
+  },
+  {
+    "es": "incidente",
+    "pron": "ínsident",
+    "en": "incident"
+  },
+  {
+    "es": "audiencia",
+    "pron": "jírin",
+    "en": "hearing"
+  },
+  {
+    "es": "en todas partes",
+    "pron": "évriuer",
+    "en": "everywhere"
+  },
+  {
+    "es": "pago",
+    "pron": "péiment",
+    "en": "payment"
+  },
+  {
+    "es": "concluir",
+    "pron": "konklúd",
+    "en": "conclude"
+  },
+  {
+    "es": "testigo",
+    "pron": "uítnes",
+    "en": "witness"
+  },
+  {
+    "es": "cada vez más",
+    "pron": "inkrísingli",
+    "en": "increasingly"
+  },
+  {
+    "es": "enmienda",
+    "pron": "améndment",
+    "en": "amendment"
+  },
+  {
+    "es": "quejarse",
+    "pron": "kompléin",
+    "en": "complain"
+  },
+  {
+    "es": "extensión",
+    "pron": "ikstént",
+    "en": "extent"
+  },
+  {
+    "es": "genial",
+    "pron": "súper",
+    "en": "super"
+  },
+  {
+    "es": "talento",
+    "pron": "tálent",
+    "en": "talent"
+  },
+  {
+    "es": "necesariamente",
+    "pron": "nésesérili",
+    "en": "necessarily"
+  },
+  {
+    "es": "liberal",
+    "pron": "líberal",
+    "en": "liberal"
+  },
+  {
+    "es": "expectativa",
+    "pron": "ekspektéishon",
+    "en": "expectation"
+  },
+  {
+    "es": "acusar",
+    "pron": "akiús",
+    "en": "accuse"
+  },
+  {
+    "es": "previamente",
+    "pron": "príviusli",
+    "en": "previously"
+  },
+  {
+    "es": "corporación",
+    "pron": "korporéishon",
+    "en": "corporation"
+  },
+  {
+    "es": "sector",
+    "pron": "séktor",
+    "en": "sector"
+  },
+  {
+    "es": "experimento",
+    "pron": "ikspériment",
+    "en": "experiment"
+  },
+  {
+    "es": "raro",
+    "pron": "rér",
+    "en": "rare"
+  },
+  {
+    "es": "confianza",
+    "pron": "kónfidens",
+    "en": "confidence"
+  },
+  {
+    "es": "grupo",
+    "pron": "banch",
+    "en": "bunch"
+  },
+  {
+    "es": "apostar",
+    "pron": "bet",
+    "en": "bet"
+  },
+  {
+    "es": "citar",
+    "pron": "sáit",
+    "en": "cite"
+  },
+  {
+    "es": "norteño",
+    "pron": "nórthern",
+    "en": "northern"
+  },
+  {
+    "es": "contribución",
+    "pron": "kontribiúshon",
+    "en": "contribution"
+  },
+  {
+    "es": "creativo",
+    "pron": "kriéitiv",
+    "en": "creative"
+  },
+  {
+    "es": "interacción",
+    "pron": "interákshon",
+    "en": "interaction"
+  },
+  {
+    "es": "duda",
+    "pron": "daut",
+    "en": "doubt"
+  },
+  {
+    "es": "general",
+    "pron": "óuveral",
+    "en": "overall"
+  },
+  {
+    "es": "pregunta",
+    "pron": "kuéschon",
+    "en": "question"
+  },
+  {
+    "es": "a largo plazo",
+    "pron": "lóng-term",
+    "en": "long-term"
+  },
+  {
+    "es": "paquete",
+    "pron": "pákich",
+    "en": "package"
+  },
+  {
+    "es": "raro / extraño",
+    "pron": "uíerd",
+    "en": "weird"
+  },
+  {
+    "es": "dificultad",
+    "pron": "dífikolti",
+    "en": "difficulty"
+  },
+  {
+    "es": "apenas",
+    "pron": "járdli",
+    "en": "hardly"
+  },
+  {
+    "es": "estimar",
+    "pron": "éstimeit",
+    "en": "estimate"
+  },
+  {
+    "es": "era",
+    "pron": "éra",
+    "en": "era"
+  },
+  {
+    "es": "ayuda",
+    "pron": "eid",
+    "en": "aid"
+  },
+  {
+    "es": "invertir",
+    "pron": "invést",
+    "en": "invest"
+  },
+  {
+    "es": "personalmente",
+    "pron": "pérsonali",
+    "en": "personally"
+  },
+  {
+    "es": "noción",
+    "pron": "nóushon",
+    "en": "notion"
+  },
+  {
+    "es": "explicación",
+    "pron": "eksplanéishon",
+    "en": "explanation"
+  },
+  {
+    "es": "exponer",
+    "pron": "ikspóuz",
+    "en": "expose"
+  },
+  {
+    "es": "convencer",
+    "pron": "konvíns",
+    "en": "convince"
+  },
+  {
+    "es": "cuidadosamente",
+    "pron": "kérfuli",
+    "en": "carefully"
+  },
+  {
+    "es": "propiedad",
+    "pron": "istéit",
+    "en": "estate"
+  },
+  {
+    "es": "inicial",
+    "pron": "iníshal",
+    "en": "initial"
+  },
+  {
+    "es": "compra",
+    "pron": "pérches",
+    "en": "purchase"
+  },
+  {
+    "es": "adelante",
+    "pron": "fórz",
+    "en": "forth"
+  },
+  {
+    "es": "su",
+    "pron": "jís",
+    "en": "his"
+  },
+  {
+    "es": "bono / vínculo",
+    "pron": "bond",
+    "en": "bond"
+  },
+  {
+    "es": "mejora",
+    "pron": "imprúvment",
+    "en": "improvement"
+  },
+  {
+    "es": "antiguo",
+    "pron": "éinshent",
+    "en": "ancient"
+  },
+  {
+    "es": "deber (moral)",
+    "pron": "ót",
+    "en": "ought"
+  },
+  {
+    "es": "sendero",
+    "pron": "treil",
+    "en": "trail"
+  },
+  {
+    "es": "longitud",
+    "pron": "lengz",
+    "en": "length"
+  },
+  {
+    "es": "financiación",
+    "pron": "fánding",
+    "en": "funding"
+  },
+  {
+    "es": "mientras tanto",
+    "pron": "mínwail",
+    "en": "meanwhile"
+  },
+  {
+    "es": "culpa",
+    "pron": "folt",
+    "en": "fault"
+  },
+  {
+    "es": "apenas",
+    "pron": "bérli",
+    "en": "barely"
+  },
+  {
+    "es": "movimiento",
+    "pron": "móushon",
+    "en": "motion"
+  },
+  {
+    "es": "esencial",
+    "pron": "esénshal",
+    "en": "essential"
+  },
+  {
+    "es": "separado",
+    "pron": "apárt",
+    "en": "apart"
+  },
+  {
+    "es": "combinación",
+    "pron": "kombinéishon",
+    "en": "combination"
+  },
+  {
+    "es": "limitado",
+    "pron": "límited",
+    "en": "limited"
+  },
+  {
+    "es": "descripción",
+    "pron": "diskrípʃon",
+    "en": "description"
+  },
+  {
+    "es": "implementar",
+    "pron": "ímplement",
+    "en": "implement"
+  },
+  {
+    "es": "adecuado",
+    "pron": "próper",
+    "en": "proper"
+  },
+  {
+    "es": "marketing",
+    "pron": "márketing",
+    "en": "marketing"
+  },
+  {
+    "es": "aprobar",
+    "pron": "aprúv",
+    "en": "approve"
+  },
+  {
+    "es": "regional",
+    "pron": "rídʒonal",
+    "en": "regional"
+  },
+  {
+    "es": "creación",
+    "pron": "kriéishon",
+    "en": "creation"
+  },
+  {
+    "es": "típicamente",
+    "pron": "típikali",
+    "en": "typically"
+  },
+  {
+    "es": "gasto",
+    "pron": "spénding",
+    "en": "spending"
+  },
+  {
+    "es": "instrumento",
+    "pron": "ínstrument",
+    "en": "instrument"
+  },
+  {
+    "es": "masa",
+    "pron": "mas",
+    "en": "mass"
+  },
+  {
+    "es": "grueso",
+    "pron": "zik",
+    "en": "thick"
+  },
+  {
+    "es": "incrementado",
+    "pron": "inkríst",
+    "en": "increased"
+  },
+  {
+    "es": "inspirar",
+    "pron": "inspáir",
+    "en": "inspire"
+  },
+  {
+    "es": "separar",
+    "pron": "sépareit",
+    "en": "separate"
+  },
+  {
+    "es": "amarillo",
+    "pron": "yélou",
+    "en": "yellow"
+  },
+  {
+    "es": "objetivo",
+    "pron": "eim",
+    "en": "aim"
+  },
+  {
+    "es": "correo electrónico",
+    "pron": "ímeil",
+    "en": "e-mail"
+  },
+  {
+    "es": "ciclo",
+    "pron": "sáikol",
+    "en": "cycle"
+  },
+  {
+    "es": "informar",
+    "pron": "infórm",
+    "en": "inform"
+  },
+  {
+    "es": "percepción",
+    "pron": "persépʃon",
+    "en": "perception"
+  },
+  {
+    "es": "visitante",
+    "pron": "vízitor",
+    "en": "visitor"
+  },
+  {
+    "es": "reparto / lanzar",
+    "pron": "kast",
+    "en": "cast"
+  },
+  {
+    "es": "contraste",
+    "pron": "kóntrast",
+    "en": "contrast"
+  },
+  {
+    "es": "juicio",
+    "pron": "yádgment",
+    "en": "judgment"
+  },
+  {
+    "es": "representante",
+    "pron": "reprizéntativ",
+    "en": "representative"
+  },
+  {
+    "es": "régimen",
+    "pron": "reyím",
+    "en": "regime"
+  },
+  {
+    "es": "meramente",
+    "pron": "míerli",
+    "en": "merely"
+  },
+  {
+    "es": "productor",
+    "pron": "prodíuser",
+    "en": "producer"
+  },
+  {
+    "es": "ruta",
+    "pron": "rut",
+    "en": "route"
+  },
+  {
+    "es": "típico",
+    "pron": "típikal",
+    "en": "typical"
+  },
+  {
+    "es": "analista",
+    "pron": "ánalyst",
+    "en": "analyst"
+  },
+  {
+    "es": "elegir",
+    "pron": "ilékt",
+    "en": "elect"
+  },
+  {
+    "es": "discapacidad",
+    "pron": "disabíliti",
+    "en": "disability"
+  },
+  {
+    "es": "comparación",
+    "pron": "komparíson",
+    "en": "comparison"
+  },
+  {
+    "es": "clasificación",
+    "pron": "réiting",
+    "en": "rating"
+  },
+  {
+    "es": "campus",
+    "pron": "kámpus",
+    "en": "campus"
+  },
+  {
+    "es": "evaluar",
+    "pron": "asés",
+    "en": "assess"
+  },
+  {
+    "es": "loco",
+    "pron": "mad",
+    "en": "mad"
+  },
+  {
+    "es": "algo",
+    "pron": "sómguat",
+    "en": "somewhat"
+  },
+  {
+    "es": "oposición",
+    "pron": "oposíshon",
+    "en": "opposition"
+  },
+  {
+    "es": "sospechar",
+    "pron": "saspékt",
+    "en": "suspect"
+  },
+  {
+    "es": "aparte",
+    "pron": "asáid",
+    "en": "aside"
+  },
+  {
+    "es": "apertura",
+    "pron": "óupening",
+    "en": "opening"
+  },
+  {
+    "es": "oración",
+    "pron": "préyer",
+    "en": "prayer"
+  },
+  {
+    "es": "frecuentemente",
+    "pron": "fríkuentli",
+    "en": "frequently"
+  },
+  {
+    "es": "emplear",
+    "pron": "emplói",
+    "en": "employ"
+  },
+  {
+    "es": "existente",
+    "pron": "igzísting",
+    "en": "existing"
+  },
+  {
+    "es": "revolución",
+    "pron": "revolúshon",
+    "en": "revolution"
+  },
+  {
+    "es": "emoción",
+    "pron": "imóushon",
+    "en": "emotion"
+  },
+  {
+    "es": "plataforma",
+    "pron": "plátform",
+    "en": "platform"
+  },
+  {
+    "es": "apelación",
+    "pron": "apíl",
+    "en": "appeal"
+  },
+  {
+    "es": "cita",
+    "pron": "kuóut",
+    "en": "quote"
+  },
+  {
+    "es": "marca",
+    "pron": "brand",
+    "en": "brand"
+  },
+  {
+    "es": "habilitar",
+    "pron": "inéibol",
+    "en": "enable"
+  },
+  {
+    "es": "legislación",
+    "pron": "lechisléishon",
+    "en": "legislation"
+  },
+  {
+    "es": "adición",
+    "pron": "adíshon",
+    "en": "addition"
+  },
+  {
+    "es": "oponerse",
+    "pron": "opóuz",
+    "en": "oppose"
+  },
+  {
+    "es": "activo",
+    "pron": "áset",
+    "en": "asset"
+  },
+  {
+    "es": "declive",
+    "pron": "dikláyn",
+    "en": "decline"
+  },
+  {
+    "es": "atraer",
+    "pron": "atrákt",
+    "en": "attract"
+  },
+  {
+    "es": "hogar",
+    "pron": "jáushold",
+    "en": "household"
+  },
+  {
+    "es": "existencia",
+    "pron": "igzístens",
+    "en": "existence"
+  },
+  {
+    "es": "alivio",
+    "pron": "rilíf",
+    "en": "relief"
+  },
+  {
+    "es": "literalmente",
+    "pron": "líterali",
+    "en": "literally"
+  },
+  {
+    "es": "dejar",
+    "pron": "kuít",
+    "en": "quit"
+  },
+  {
+    "es": "caloría",
+    "pron": "kálori",
+    "en": "calorie"
+  },
+  {
+    "es": "vasto",
+    "pron": "vast",
+    "en": "vast"
+  },
+  {
+    "es": "alemán",
+    "pron": "yérman",
+    "en": "German"
+  },
+  {
+    "es": "empleador",
+    "pron": "emplóyer",
+    "en": "employer"
+  },
+  {
+    "es": "arrastrar",
+    "pron": "drag",
+    "en": "drag"
+  },
+  {
+    "es": "técnico",
+    "pron": "téknikal",
+    "en": "technical"
+  },
+  {
+    "es": "desastre",
+    "pron": "disáster",
+    "en": "disaster"
+  },
+  {
+    "es": "mostrar",
+    "pron": "displéi",
+    "en": "display"
+  },
+  {
+    "es": "venta",
+    "pron": "seil",
+    "en": "sale"
+  },
+  {
+    "es": "tener éxito",
+    "pron": "suksíd",
+    "en": "succeed"
+  },
+  {
+    "es": "consistente",
+    "pron": "konsístent",
+    "en": "consistent"
+  },
+  {
+    "es": "aplicación de",
+    "pron": "la ley enfórsment",
+    "en": "enforcement"
+  },
+  {
+    "es": "dividir",
+    "pron": "diváid",
+    "en": "divide"
+  },
+  {
+    "es": "gasto",
+    "pron": "ikspéns",
+    "en": "expense"
+  },
+  {
+    "es": "exposición",
+    "pron": "ikspóusher",
+    "en": "exposure"
+  },
+  {
+    "es": "prioridad",
+    "pron": "praióriti",
+    "en": "priority"
+  },
+  {
+    "es": "viaje",
+    "pron": "yérni",
+    "en": "journey"
+  },
+  {
+    "es": "relevante",
+    "pron": "rélavant",
+    "en": "relevant"
+  },
+  {
+    "es": "tono",
+    "pron": "tóun",
+    "en": "tone"
+  },
+  {
+    "es": "selección",
+    "pron": "selékshon",
+    "en": "selection"
+  },
+  {
+    "es": "perfectamente",
+    "pron": "pérfektli",
+    "en": "perfectly"
+  },
+  {
+    "es": "discrepar",
+    "pron": "disagrí",
+    "en": "disagree"
+  },
+  {
+    "es": "característica",
+    "pron": "karakterístik",
+    "en": "characteristic"
+  },
+  {
+    "es": "resolución",
+    "pron": "resolúshon",
+    "en": "resolution"
+  },
+  {
+    "es": "consideración",
+    "pron": "rigárd",
+    "en": "regard"
+  },
+  {
+    "es": "menos",
+    "pron": "fíu-er",
+    "en": "fewer"
+  },
+  {
+    "es": "ingeniero",
+    "pron": "enyinír",
+    "en": "engineer"
+  },
+  {
+    "es": "desperdicio",
+    "pron": "uéist",
+    "en": "waste"
+  },
+  {
+    "es": "depresión",
+    "pron": "deprɛ ́ shon",
+    "en": "depression"
+  },
+  {
+    "es": "tipo",
+    "pron": "dúd",
+    "en": "dude"
+  },
+  {
+    "es": "superior",
+    "pron": "áper",
+    "en": "upper"
+  },
+  {
+    "es": "director ejecutivo",
+    "pron": "sí-í-ou",
+    "en": "CEO"
+  },
+  {
+    "es": "visual",
+    "pron": "víshuol",
+    "en": "visual"
+  },
+  {
+    "es": "iniciativa",
+    "pron": "inishíativ",
+    "en": "initiative"
+  },
+  {
+    "es": "prisa",
+    "pron": "rash",
+    "en": "rush"
+  },
+  {
+    "es": "cuando sea",
+    "pron": "uenéver",
+    "en": "whenever"
+  },
+  {
+    "es": "entrada",
+    "pron": "éntri",
+    "en": "entry"
+  },
+  {
+    "es": "japonés",
+    "pron": "yapanís",
+    "en": "Japanese"
+  },
+  {
+    "es": "gris",
+    "pron": "gréi",
+    "en": "gray"
+  },
+  {
+    "es": "asistencia",
+    "pron": "asístens",
+    "en": "assistance"
+  },
+  {
+    "es": "competir",
+    "pron": "kampít",
+    "en": "compete"
+  },
+  {
+    "es": "esencialmente",
+    "pron": "esénshali",
+    "en": "essentially"
+  },
+  {
+    "es": "fase",
+    "pron": "feis",
+    "en": "phase"
+  },
+  {
+    "es": "recuperar",
+    "pron": "rikóver",
+    "en": "recover"
+  },
+  {
+    "es": "crítica",
+    "pron": "krítisism",
+    "en": "criticism"
+  },
+  {
+    "es": "facultad",
+    "pron": "fákulti",
+    "en": "faculty"
+  },
+  {
+    "es": "logro",
+    "pron": "achívment",
+    "en": "achievement"
+  },
+  {
+    "es": "terapia",
+    "pron": "thérapi",
+    "en": "therapy"
+  },
+  {
+    "es": "ofensa",
+    "pron": "oféns",
+    "en": "offense"
+  },
+  {
+    "es": "personalidad",
+    "pron": "persanáliti",
+    "en": "personality"
+  },
+  {
+    "es": "profundamente",
+    "pron": "dípli",
+    "en": "deeply"
+  },
+  {
+    "es": "razonable",
+    "pron": "rísonabol",
+    "en": "reasonable"
+  },
+  {
+    "es": "transición",
+    "pron": "transíshon",
+    "en": "transition"
+  },
+  {
+    "es": "bastante",
+    "pron": "férli",
+    "en": "fairly"
+  },
+  {
+    "es": "oponente",
+    "pron": "opónent",
+    "en": "opponent"
+  },
+  {
+    "es": "verter",
+    "pron": "pór",
+    "en": "pour"
+  },
+  {
+    "es": "inmigrante",
+    "pron": "ímigrant",
+    "en": "immigrant"
+  },
+  {
+    "es": "primero",
+    "pron": "fɜ ́ rst",
+    "en": "first"
+  },
+  {
+    "es": "distribución",
+    "pron": "distríbiushon",
+    "en": "distribution"
+  },
+  {
+    "es": "incapaz",
+    "pron": "anéiabol",
+    "en": "unable"
+  },
+  {
+    "es": "alternativa",
+    "pron": "oltérnativ",
+    "en": "alternative"
+  },
+  {
+    "es": "favorito",
+    "pron": "féivorit",
+    "en": "favorite"
+  },
+  {
+    "es": "violento",
+    "pron": "váiolent",
+    "en": "violent"
+  },
+  {
+    "es": "porción",
+    "pron": "pórshon",
+    "en": "portion"
+  },
+  {
+    "es": "adquirir",
+    "pron": "akuáir",
+    "en": "acquire"
+  },
+  {
+    "es": "suicidio",
+    "pron": "suisaíd",
+    "en": "suicide"
+  },
+  {
+    "es": "déficit",
+    "pron": "déficit",
+    "en": "deficit"
+  },
+  {
+    "es": "síntoma",
+    "pron": "símptom",
+    "en": "symptom"
+  },
+  {
+    "es": "solar",
+    "pron": "sólar",
+    "en": "solar"
+  },
+  {
+    "es": "queja",
+    "pron": "kompléint",
+    "en": "complaint"
+  },
+  {
+    "es": "capaz",
+    "pron": "kéipabol",
+    "en": "capable"
+  },
+  {
+    "es": "analizar",
+    "pron": "ánalaiz",
+    "en": "analyze"
+  },
+  {
+    "es": "seguidor",
+    "pron": "sapórter",
+    "en": "supporter"
+  },
+  {
+    "es": "veinte",
+    "pron": "tuénti",
+    "en": "twenty"
+  },
+  {
+    "es": "fingir",
+    "pron": "priténd",
+    "en": "pretend"
+  },
+  {
+    "es": "filosofía",
+    "pron": "filósophi",
+    "en": "philosophy"
+  },
+  {
+    "es": "infancia",
+    "pron": "cháildhud",
+    "en": "childhood"
+  },
+  {
+    "es": "inferior",
+    "pron": "lóuer",
+    "en": "lower"
+  },
+  {
+    "es": "bienestar",
+    "pron": "uélfer",
+    "en": "welfare"
+  },
+  {
+    "es": "fiscal",
+    "pron": "prósikutor",
+    "en": "prosecutor"
+  },
+  {
+    "es": "espiritual",
+    "pron": "spírichual",
+    "en": "spiritual"
+  },
+  {
+    "es": "doble",
+    "pron": "dábol",
+    "en": "double"
+  },
+  {
+    "es": "evaluar",
+    "pron": "iválueit",
+    "en": "evaluate"
+  },
+  {
+    "es": "israelí",
+    "pron": "israelí",
+    "en": "Israeli"
+  },
+  {
+    "es": "responder",
+    "pron": "riplái",
+    "en": "reply"
+  },
+  {
+    "es": "dólar",
+    "pron": "bak",
+    "en": "buck"
+  },
+  {
+    "es": "tecnología",
+    "pron": "tek",
+    "en": "tech"
+  },
+  {
+    "es": "detective",
+    "pron": "ditéktiv",
+    "en": "detective"
+  },
+  {
+    "es": "trastorno",
+    "pron": "disórder",
+    "en": "disorder"
+  },
+  {
+    "es": "criatura",
+    "pron": "krícher",
+    "en": "creature"
+  },
+  {
+    "es": "estrechamente",
+    "pron": "klóusli",
+    "en": "closely"
+  },
+  {
+    "es": "vivienda",
+    "pron": "jáusing",
+    "en": "housing"
+  },
+  {
+    "es": "independientemen",
+    "pron": "riguárdles",
+    "en": "regardless"
+  },
+  {
+    "es": "numerosos",
+    "pron": "niúmeros",
+    "en": "numerous"
+  },
+  {
+    "es": "docena",
+    "pron": "dósen",
+    "en": "dozen"
+  },
+  {
+    "es": "estallar / pop",
+    "pron": "pop",
+    "en": "pop"
+  },
+  {
+    "es": "excepción",
+    "pron": "iksépchon",
+    "en": "exception"
+  },
+  {
+    "es": "pasión",
+    "pron": "páshon",
+    "en": "passion"
+  },
+  {
+    "es": "puro",
+    "pron": "piúr",
+    "en": "pure"
+  },
+  {
+    "es": "comandante",
+    "pron": "kománder",
+    "en": "commander"
+  },
+  {
+    "es": "extremo",
+    "pron": "ikstrím",
+    "en": "extreme"
+  },
+  {
+    "es": "vicio",
+    "pron": "váis",
+    "en": "vice"
+  },
+  {
+    "es": "compañero",
+    "pron": "félou",
+    "en": "fellow"
+  },
+  {
+    "es": "misterio",
+    "pron": "místery",
+    "en": "mystery"
+  },
+  {
+    "es": "campeonato",
+    "pron": "chámpionship",
+    "en": "championship"
+  },
+  {
+    "es": "relato",
+    "pron": "téil",
+    "en": "tale"
+  },
+  {
+    "es": "debajo de",
+    "pron": "biníz",
+    "en": "beneath"
+  },
+  {
+    "es": "médico",
+    "pron": "fisíshan",
+    "en": "physician"
+  },
+  {
+    "es": "graduarse",
+    "pron": "grádjueit",
+    "en": "graduate"
+  },
+  {
+    "es": "sustancia",
+    "pron": "sábstans",
+    "en": "substance"
+  },
+  {
+    "es": "remover",
+    "pron": "stér",
+    "en": "stir"
+  },
+  {
+    "es": "musulmán",
+    "pron": "múzlim",
+    "en": "muslim"
+  },
+  {
+    "es": "pasaje",
+    "pron": "pásidʒ",
+    "en": "passage"
+  },
+  {
+    "es": "enfatizar",
+    "pron": "émfasáiz",
+    "en": "emphasize"
+  },
+  {
+    "es": "al lado de",
+    "pron": "bisáid",
+    "en": "beside"
+  },
+  {
+    "es": "lograr",
+    "pron": "akómplish",
+    "en": "accomplish"
+  },
+  {
+    "es": "silencioso",
+    "pron": "sáilent",
+    "en": "silent"
+  },
+  {
+    "es": "hábito",
+    "pron": "hábit",
+    "en": "habit"
+  },
+  {
+    "es": "descubrimiento",
+    "pron": "diskóveri",
+    "en": "discovery"
+  },
+  {
+    "es": "recuperación",
+    "pron": "rikóveri",
+    "en": "recovery"
+  },
+  {
+    "es": "ADN",
+    "pron": "di-en-ei",
+    "en": "DNA"
+  },
+  {
+    "es": "consistir",
+    "pron": "konsíst",
+    "en": "consist"
+  },
+  {
+    "es": "seguramente",
+    "pron": "shúrli",
+    "en": "surely"
+  },
+  {
+    "es": "prueba",
+    "pron": "prúf",
+    "en": "proof"
+  },
+  {
+    "es": "inmediato",
+    "pron": "imídiat",
+    "en": "immediate"
+  },
+  {
+    "es": "pecado",
+    "pron": "sin",
+    "en": "sin"
+  },
+  {
+    "es": "inusual",
+    "pron": "aniúshual",
+    "en": "unusual"
+  },
+  {
+    "es": "ingeniería",
+    "pron": "endyinírin",
+    "en": "engineering"
+  },
+  {
+    "es": "avance",
+    "pron": "adváns",
+    "en": "advance"
+  },
+  {
+    "es": "contemporáneo",
+    "pron": "kontémporeri",
+    "en": "contemporary"
+  },
+  {
+    "es": "bueno",
+    "pron": "gúd",
+    "en": "good"
+  },
+  {
+    "es": "rural",
+    "pron": "rúral",
+    "en": "rural"
+  },
+  {
+    "es": "interpretación",
+    "pron": "interpreatéishon",
+    "en": "interpretation"
+  },
+  {
+    "es": "salario",
+    "pron": "uéich",
+    "en": "wage"
+  },
+  {
+    "es": "perfil",
+    "pron": "próufail",
+    "en": "profile"
+  },
+  {
+    "es": "ahorro",
+    "pron": "séivin",
+    "en": "saving"
+  },
+  {
+    "es": "breve",
+    "pron": "bríf",
+    "en": "brief"
+  },
+  {
+    "es": "ajustar",
+    "pron": "ayást",
+    "en": "adjust"
+  },
+  {
+    "es": "reducción",
+    "pron": "ridákshon",
+    "en": "reduction"
+  },
+  {
+    "es": "constantemente",
+    "pron": "kónstantli",
+    "en": "constantly"
+  },
+  {
+    "es": "ayudar",
+    "pron": "asíst",
+    "en": "assist"
+  },
+  {
+    "es": "perra (vulgar)",
+    "pron": "bích",
+    "en": "bitch"
+  },
+  {
+    "es": "constante",
+    "pron": "kónstant",
+    "en": "constant"
+  },
+  {
+    "es": "permitir",
+    "pron": "permít",
+    "en": "permit"
+  },
+  {
+    "es": "principalmente",
+    "pron": "praimérili",
+    "en": "primarily"
+  },
+  {
+    "es": "entretenimiento",
+    "pron": "entertéiment",
+    "en": "entertainment"
+  },
+  {
+    "es": "transferir",
+    "pron": "tránsfer",
+    "en": "transfer"
+  },
+  {
+    "es": "usual",
+    "pron": "iúshual",
+    "en": "usual"
+  },
+  {
+    "es": "aliado",
+    "pron": "álai",
+    "en": "ally"
+  },
+  {
+    "es": "clínico",
+    "pron": "klínikal",
+    "en": "clinical"
+  },
+  {
+    "es": "empleo",
+    "pron": "emplóiment",
+    "en": "employment"
+  },
+  {
+    "es": "deber",
+    "pron": "óu",
+    "en": "owe"
+  },
+  {
+    "es": "transformar",
+    "pron": "transfórm",
+    "en": "transform"
+  },
+  {
+    "es": "estrecho",
+    "pron": "néro",
+    "en": "narrow"
+  },
+  {
+    "es": "étnico",
+    "pron": "éznic",
+    "en": "ethnic"
+  },
+  {
+    "es": "académico",
+    "pron": "skólar",
+    "en": "scholar"
+  },
+  {
+    "es": "edición",
+    "pron": "idíshon",
+    "en": "edition"
+  },
+  {
+    "es": "abandonar",
+    "pron": "abándon",
+    "en": "abandon"
+  },
+  {
+    "es": "práctico",
+    "pron": "práktikal",
+    "en": "practical"
+  },
+  {
+    "es": "infección",
+    "pron": "infékshon",
+    "en": "infection"
+  },
+  {
+    "es": "musical",
+    "pron": "miúsikal",
+    "en": "musical"
+  },
+  {
+    "es": "sugerencia",
+    "pron": "sugéstshon",
+    "en": "suggestion"
+  },
+  {
+    "es": "resistencia",
+    "pron": "resístans",
+    "en": "resistance"
+  },
+  {
+    "es": "abrazar",
+    "pron": "embréis",
+    "en": "embrace"
+  },
+  {
+    "es": "república",
+    "pron": "ripáblik",
+    "en": "republic"
+  },
+  {
+    "es": "voluntario",
+    "pron": "volontír",
+    "en": "volunteer"
+  },
+  {
+    "es": "evaluación",
+    "pron": "ivalyuéishon",
+    "en": "evaluation"
+  },
+  {
+    "es": "opuesto",
+    "pron": "óposit",
+    "en": "opposite"
+  },
+  {
+    "es": "impresionante",
+    "pron": "ósom",
+    "en": "awesome"
+  },
+  {
+    "es": "iraquí",
+    "pron": "iráki",
+    "en": "Iraqi"
+  },
+  {
+    "es": "percibir",
+    "pron": "persív",
+    "en": "perceive"
+  },
+  {
+    "es": "fundamental",
+    "pron": "fandaméntal",
+    "en": "fundamental"
+  },
+  {
+    "es": "frase",
+    "pron": "fréis",
+    "en": "phrase"
+  },
+  {
+    "es": "suposición",
+    "pron": "asámshon",
+    "en": "assumption"
+  },
+  {
+    "es": "diseñador",
+    "pron": "dizáiner",
+    "en": "designer"
+  },
+  {
+    "es": "planificación",
+    "pron": "plánin",
+    "en": "planning"
+  },
+  {
+    "es": "principal",
+    "pron": "lídin",
+    "en": "leading"
+  },
+  {
+    "es": "modo",
+    "pron": "móud",
+    "en": "mode"
+  },
+  {
+    "es": "respeto",
+    "pron": "rispékt",
+    "en": "respect"
+  },
+  {
+    "es": "ampliamente",
+    "pron": "uáidli",
+    "en": "widely"
+  },
+  {
+    "es": "ocasión",
+    "pron": "okéishon",
+    "en": "occasion"
+  },
+  {
+    "es": "plantear",
+    "pron": "póuz",
+    "en": "pose"
+  },
+  {
+    "es": "aproximadamente",
+    "pron": "aprósimetli",
+    "en": "approximately"
+  },
+  {
+    "es": "jubilarse",
+    "pron": "ritáir",
+    "en": "retire"
+  },
+  {
+    "es": "en otro lugar",
+    "pron": "élswer",
+    "en": "elsewhere"
+  },
+  {
+    "es": "asegurar",
+    "pron": "sekíur",
+    "en": "secure"
+  },
+  {
+    "es": "adjuntar",
+    "pron": "atásh",
+    "en": "attach"
+  },
+  {
+    "es": "intención",
+    "pron": "inténshon",
+    "en": "intention"
+  },
+  {
+    "es": "gritar",
+    "pron": "yel",
+    "en": "yell"
+  },
+  {
+    "es": "increíble",
+    "pron": "incrédibel",
+    "en": "incredible"
+  },
+  {
+    "es": "español",
+    "pron": "spánish",
+    "en": "Spanish"
+  },
+  {
+    "es": "fuertemente",
+    "pron": "stróngli",
+    "en": "strongly"
+  },
+  {
+    "es": "racial",
+    "pron": "réishol",
+    "en": "racial"
+  },
+  {
+    "es": "transporte",
+    "pron": "transportéishon",
+    "en": "transportation"
+  },
+  {
+    "es": "consideración",
+    "pron": "considéréishon",
+    "en": "consideration"
+  },
+  {
+    "es": "previo",
+    "pron": "práior",
+    "en": "prior"
+  },
+  {
+    "es": "jubilación",
+    "pron": "ritáirment",
+    "en": "retirement"
+  },
+  {
+    "es": "raramente",
+    "pron": "rérli",
+    "en": "rarely"
+  },
+  {
+    "es": "preservar",
+    "pron": "prizérv",
+    "en": "preserve"
+  },
+  {
+    "es": "enorme",
+    "pron": "inórmus",
+    "en": "enormous"
+  },
+  {
+    "es": "valioso",
+    "pron": "válioabol",
+    "en": "valuable"
+  },
+  {
+    "es": "clip",
+    "pron": "klip",
+    "en": "clip"
+  },
+  {
+    "es": "enviar",
+    "pron": "səbmít",
+    "en": "submit"
+  },
+  {
+    "es": "efectivamente",
+    "pron": "iféktivli",
+    "en": "effectively"
+  },
+  {
+    "es": "monitorear",
+    "pron": "mónitor",
+    "en": "monitor"
+  },
+  {
+    "es": "resolver",
+    "pron": "rizólv",
+    "en": "resolve"
+  },
+  {
+    "es": "restante",
+    "pron": "riméinɪng",
+    "en": "remaining"
+  },
+  {
+    "es": "corriente",
+    "pron": "strím",
+    "en": "stream"
+  },
+  {
+    "es": "librarse de",
+    "pron": "rid",
+    "en": "rid"
+  },
+  {
+    "es": "origen",
+    "pron": "óridyin",
+    "en": "origin"
+  },
+  {
+    "es": "adolescente",
+    "pron": "tín",
+    "en": "teen"
+  },
+  {
+    "es": "del congreso",
+    "pron": "congréshonal",
+    "en": "congressional"
+  },
+  {
+    "es": "licencia",
+    "pron": "láisens",
+    "en": "license"
+  },
+  {
+    "es": "imponer",
+    "pron": "impóuz",
+    "en": "impose"
+  },
+  {
+    "es": "inocente",
+    "pron": "ínosent",
+    "en": "innocent"
+  },
+  {
+    "es": "plan de estudios",
+    "pron": "keríkulum",
+    "en": "curriculum"
+  },
+  {
+    "es": "perspicacia",
+    "pron": "ínsait",
+    "en": "insight"
+  },
+  {
+    "es": "investigador",
+    "pron": "investigéitor",
+    "en": "investigator"
+  },
+  {
+    "es": "preciso",
+    "pron": "ákjurət",
+    "en": "accurate"
+  },
+  {
+    "es": "provisión",
+    "pron": "provizhón",
+    "en": "provision"
+  },
+  {
+    "es": "comunicar",
+    "pron": "koniúnekeit",
+    "en": "communicate"
+  },
+  {
+    "es": "variar",
+    "pron": "véri",
+    "en": "vary"
+  },
+  {
+    "es": "creciente",
+    "pron": "inkrísin",
+    "en": "increasing"
+  },
+  {
+    "es": "igualmente",
+    "pron": "íkwalɪ",
+    "en": "equally"
+  },
+  {
+    "es": "implicación",
+    "pron": "implikéishon",
+    "en": "implication"
+  },
+  {
+    "es": "ficción",
+    "pron": "fíkshon",
+    "en": "fiction"
+  },
+  {
+    "es": "implicar",
+    "pron": "implái",
+    "en": "imply"
+  },
+  {
+    "es": "doblar",
+    "pron": "bend",
+    "en": "bend"
+  },
+  {
+    "es": "choque",
+    "pron": "shok",
+    "en": "shock"
+  },
+  {
+    "es": "criterios",
+    "pron": "kraitíria",
+    "en": "criteria"
+  },
+  {
+    "es": "árabe",
+    "pron": "árab",
+    "en": "Arab"
+  },
+  {
+    "es": "sucio",
+    "pron": "dérti",
+    "en": "dirty"
+  },
+  {
+    "es": "potencialmente",
+    "pron": "poténshali",
+    "en": "potentially"
+  },
+  {
+    "es": "asalto",
+    "pron": "asólt",
+    "en": "assault"
+  },
+  {
+    "es": "dramático",
+    "pron": "dramátik",
+    "en": "dramatic"
+  },
+  {
+    "es": "par",
+    "pron": "pír",
+    "en": "peer"
+  },
+  {
+    "es": "mejorar",
+    "pron": "enháns",
+    "en": "enhance"
+  },
+  {
+    "es": "matemáticas",
+    "pron": "maz",
+    "en": "math"
+  },
+  {
+    "es": "favor",
+    "pron": "féivor",
+    "en": "favor"
+  },
+  {
+    "es": "rosa",
+    "pron": "pink",
+    "en": "pink"
+  },
+  {
+    "es": "perdido",
+    "pron": "lost",
+    "en": "lost"
+  },
+  {
+    "es": "perspectiva",
+    "pron": "próuspekt",
+    "en": "prospect"
+  },
+  {
+    "es": "estado de ánimo",
+    "pron": "múd",
+    "en": "mood"
+  },
+  {
+    "es": "acuerdo",
+    "pron": "sételment",
+    "en": "settlement"
+  },
+  {
+    "es": "justificar",
+    "pron": "yástifai",
+    "en": "justify"
+  },
+  {
+    "es": "profundidad",
+    "pron": "dépth",
+    "en": "depth"
+  },
+  {
+    "es": "formal",
+    "pron": "fórmal",
+    "en": "formal"
+  },
+  {
+    "es": "virtualmente",
+    "pron": "vérchuali",
+    "en": "virtually"
+  },
+  {
+    "es": "tensión",
+    "pron": "ténshon",
+    "en": "tension"
+  },
+  {
+    "es": "reputación",
+    "pron": "repiutéishon",
+    "en": "reputation"
+  },
+  {
+    "es": "índice",
+    "pron": "índeks",
+    "en": "index"
+  },
+  {
+    "es": "normalmente",
+    "pron": "nórmali",
+    "en": "normally"
+  },
+  {
+    "es": "alegría",
+    "pron": "yói",
+    "en": "joy"
+  },
+  {
+    "es": "empresa",
+    "pron": "énterpraiz",
+    "en": "enterprise"
+  },
+  {
+    "es": "además",
+    "pron": "moróuver",
+    "en": "moreover"
+  },
+  {
+    "es": "ordinario",
+    "pron": "órdinari",
+    "en": "ordinary"
+  },
+  {
+    "es": "evolución",
+    "pron": "evolúshon",
+    "en": "evolution"
+  },
+  {
+    "es": "útil",
+    "pron": "jélpful",
+    "en": "helpful"
+  },
+  {
+    "es": "competitivo",
+    "pron": "kompétitiv",
+    "en": "competitive"
+  },
+  {
+    "es": "encantador",
+    "pron": "lóvli",
+    "en": "lovely"
+  },
+  {
+    "es": "ansiedad",
+    "pron": "angsáiati",
+    "en": "anxiety"
+  },
+  {
+    "es": "ensayo",
+    "pron": "éssei",
+    "en": "essay"
+  },
+  {
+    "es": "islámico",
+    "pron": "islámik",
+    "en": "Islamic"
+  },
+  {
+    "es": "drama",
+    "pron": "dráma",
+    "en": "drama"
+  },
+  {
+    "es": "extraño",
+    "pron": "od",
+    "en": "odd"
+  },
+  {
+    "es": "malvado",
+    "pron": "ívil",
+    "en": "evil"
+  },
+  {
+    "es": "extraño",
+    "pron": "stréinyer",
+    "en": "stranger"
+  },
+  {
+    "es": "instar",
+    "pron": "érch",
+    "en": "urge"
+  },
+  {
+    "es": "lanzar",
+    "pron": "tos",
+    "en": "toss"
+  },
+  {
+    "es": "quinto",
+    "pron": "fífθ",
+    "en": "fifth"
+  },
+  {
+    "es": "fórmula",
+    "pron": "fórmiula",
+    "en": "formula"
+  },
+  {
+    "es": "violación",
+    "pron": "réip",
+    "en": "rape"
+  },
+  {
+    "es": "marina",
+    "pron": "néivi",
+    "en": "navy"
+  },
+  {
+    "es": "emocionado",
+    "pron": "iksáited",
+    "en": "excited"
+  },
+  {
+    "es": "trama",
+    "pron": "plot",
+    "en": "plot"
+  },
+  {
+    "es": "criticar",
+    "pron": "krítisaiz",
+    "en": "criticize"
+  },
+  {
+    "es": "negociación",
+    "pron": "negoushiéishon",
+    "en": "negotiation"
+  },
+  {
+    "es": "maldito (vulgar)",
+    "pron": "dam",
+    "en": "damn"
+  },
+  {
+    "es": "complicado",
+    "pron": "komplikeitid",
+    "en": "complicated"
+  },
+  {
+    "es": "premio",
+    "pron": "práiz",
+    "en": "prize"
+  },
+  {
+    "es": "asignar",
+    "pron": "asáin",
+    "en": "assign"
+  },
+  {
+    "es": "conciencia",
+    "pron": "auérnes",
+    "en": "awareness"
+  },
+  {
+    "es": "secuencia",
+    "pron": "síkuens",
+    "en": "sequence"
+  },
+  {
+    "es": "ilustrar",
+    "pron": "ílastréit",
+    "en": "illustrate"
+  },
+  {
+    "es": "proveedor",
+    "pron": "prováider",
+    "en": "provider"
+  },
+  {
+    "es": "menor",
+    "pron": "máiner",
+    "en": "minor"
+  },
+  {
+    "es": "activista",
+    "pron": "áktivist",
+    "en": "activist"
+  },
+  {
+    "es": "poema",
+    "pron": "póuem",
+    "en": "poem"
+  },
+  {
+    "es": "vacaciones",
+    "pron": "vekéishon",
+    "en": "vacation"
+  },
+  {
+    "es": "privacidad",
+    "pron": "práivasi",
+    "en": "privacy"
+  },
+  {
+    "es": "organizar",
+    "pron": "arréinch",
+    "en": "arrange"
+  },
+  {
+    "es": "originalmente",
+    "pron": "orídʒinali",
+    "en": "originally"
+  },
+  {
+    "es": "electrónico",
+    "pron": "ilektrónik",
+    "en": "electronic"
+  },
+  {
+    "es": "correctamente",
+    "pron": "próperli",
+    "en": "properly"
+  },
+  {
+    "es": "oficina",
+    "pron": "biúro",
+    "en": "bureau"
+  },
+  {
+    "es": "clásico",
+    "pron": "klásik",
+    "en": "classic"
+  },
+  {
+    "es": "recomendación",
+    "pron": "rekomenéishon",
+    "en": "recommendation"
+  },
+  {
+    "es": "emocionante",
+    "pron": "iksáitin",
+    "en": "exciting"
+  },
+  {
+    "es": "fabricante",
+    "pron": "méiker",
+    "en": "maker"
+  },
+  {
+    "es": "querido",
+    "pron": "dír",
+    "en": "dear"
+  },
+  {
+    "es": "impresión",
+    "pron": "impréshon",
+    "en": "impression"
+  },
+  {
+    "es": "roto",
+    "pron": "bróuken",
+    "en": "broken"
+  },
+  {
+    "es": "narrativa",
+    "pron": "nárativ",
+    "en": "narrative"
+  },
+  {
+    "es": "surgir",
+    "pron": "aráiz",
+    "en": "arise"
+  },
+  {
+    "es": "por el bien",
+    "pron": "de for de séik",
+    "en": "for the sake"
+  },
+  {
+    "es": "entrega",
+    "pron": "delíveri",
+    "en": "delivery"
+  },
+  {
+    "es": "visible",
+    "pron": "vízibol",
+    "en": "visible"
+  },
+  {
+    "es": "en gran medida",
+    "pron": "jévili",
+    "en": "heavily"
+  },
+  {
+    "es": "junior",
+    "pron": "yúnior",
+    "en": "junior"
+  },
+  {
+    "es": "diversidad",
+    "pron": "daivérsiti",
+    "en": "diversity"
+  },
+  {
+    "es": "cuerda",
+    "pron": "stríng",
+    "en": "string"
+  },
+  {
+    "es": "demanda",
+    "pron": "lósut",
+    "en": "lawsuit"
+  },
+  {
+    "es": "este último",
+    "pron": "látter",
+    "en": "latter"
+  },
+  {
+    "es": "mono",
+    "pron": "kiút",
+    "en": "cute"
+  },
+  {
+    "es": "subdelegado",
+    "pron": "dépiuti",
+    "en": "deputy"
+  },
+  {
+    "es": "restaurar",
+    "pron": "ristór",
+    "en": "restore"
+  },
+  {
+    "es": "psicológico",
+    "pron": "saikológical",
+    "en": "psychological"
+  },
+  {
+    "es": "además",
+    "pron": "bisáidz",
+    "en": "besides"
+  },
+  {
+    "es": "intenso",
+    "pron": "inténs",
+    "en": "intense"
+  },
+  {
+    "es": "amistoso",
+    "pron": "fréndli",
+    "en": "friendly"
+  },
+  {
+    "es": "dominar",
+    "pron": "dóminéit",
+    "en": "dominate"
+  },
+  {
+    "es": "pruebas",
+    "pron": "téstin",
+    "en": "testing"
+  },
+  {
+    "es": "truco",
+    "pron": "trik",
+    "en": "trick"
+  },
+  {
+    "es": "ausencia",
+    "pron": "ábsens",
+    "en": "absence"
+  },
+  {
+    "es": "ofensivo",
+    "pron": "ofénsiv",
+    "en": "offensive"
+  },
+  {
+    "es": "símbolo",
+    "pron": "símbol",
+    "en": "symbol"
+  },
+  {
+    "es": "reconocimiento",
+    "pron": "rekogníshon",
+    "en": "recognition"
+  },
+  {
+    "es": "detectar",
+    "pron": "ditékt",
+    "en": "detect"
+  },
+  {
+    "es": "construir",
+    "pron": "konstrákt",
+    "en": "construct"
+  },
+  {
+    "es": "aprobación",
+    "pron": "apróuval",
+    "en": "approval"
+  },
+  {
+    "es": "ayudas",
+    "pron": "éids",
+    "en": "aids"
+  },
+  {
+    "es": "mientras que",
+    "pron": "juéras",
+    "en": "whereas"
+  },
+  {
+    "es": "defensivo",
+    "pron": "difénsiv",
+    "en": "defensive"
+  },
+  {
+    "es": "disculparse",
+    "pron": "apólodʒaiz",
+    "en": "apologize"
+  },
+  {
+    "es": "asiático",
+    "pron": "éishan",
+    "en": "Asian"
+  },
+  {
+    "es": "participación",
+    "pron": "invólvment",
+    "en": "involvement"
+  },
+  {
+    "es": "permanente",
+    "pron": "pérmanent",
+    "en": "permanent"
+  },
+  {
+    "es": "fundador",
+    "pron": "fáunder",
+    "en": "founder"
+  },
+  {
+    "es": "objetivo",
+    "pron": "obchéktiv",
+    "en": "objective"
+  },
+  {
+    "es": "en ninguna parte",
+    "pron": "nóuer",
+    "en": "nowhere"
+  },
+  {
+    "es": "fenómeno",
+    "pron": "fenómenon",
+    "en": "phenomenon"
+  },
+  {
+    "es": "evolucionar",
+    "pron": "ivólv",
+    "en": "evolve"
+  },
+  {
+    "es": "exacto",
+    "pron": "igzákt",
+    "en": "exact"
+  },
+  {
+    "es": "universal",
+    "pron": "iunivérsal",
+    "en": "universal"
+  },
+  {
+    "es": "adolescente",
+    "pron": "tínéicher",
+    "en": "teenager"
+  },
+  {
+    "es": "crucial",
+    "pron": "krúshal",
+    "en": "crucial"
+  },
+  {
+    "es": "espectador",
+    "pron": "víuer",
+    "en": "viewer"
+  },
+  {
+    "es": "ridículo",
+    "pron": "ridíkiulos",
+    "en": "ridiculous"
+  },
+  {
+    "es": "sensible",
+    "pron": "sénsitiv",
+    "en": "sensitive"
+  },
+  {
+    "es": "aproximadamente",
+    "pron": "ráfli",
+    "en": "roughly"
+  },
+  {
+    "es": "constitucional",
+    "pron": "konstitúshonal",
+    "en": "constitutional"
+  },
+  {
+    "es": "genético",
+    "pron": "yenétik",
+    "en": "genetic"
+  },
+  {
+    "es": "relacionado",
+    "pron": "riléitid",
+    "en": "related"
+  },
+  {
+    "es": "balancear",
+    "pron": "suíng",
+    "en": "swing"
+  },
+  {
+    "es": "definitivo",
+    "pron": "áltimet",
+    "en": "ultimate"
+  },
+  {
+    "es": "fabricante",
+    "pron": "manufiákcherer",
+    "en": "manufacturer"
+  },
+  {
+    "es": "desconocido",
+    "pron": "anknóun",
+    "en": "unknown"
+  },
+  {
+    "es": "limpiar",
+    "pron": "uáip",
+    "en": "wipe"
+  },
+  {
+    "es": "cultivo",
+    "pron": "krop",
+    "en": "crop"
+  },
+  {
+    "es": "supervivencia",
+    "pron": "sérvaival",
+    "en": "survival"
+  },
+  {
+    "es": "dimensión",
+    "pron": "daiménshon",
+    "en": "dimension"
+  },
+  {
+    "es": "resistir",
+    "pron": "rizíst",
+    "en": "resist"
+  },
+  {
+    "es": "oscuridad",
+    "pron": "dárknes",
+    "en": "darkness"
+  },
+  {
+    "es": "garantía",
+    "pron": "garantí",
+    "en": "guarantee"
+  },
+  {
+    "es": "histórico",
+    "pron": "histórik",
+    "en": "historic"
+  },
+  {
+    "es": "educador",
+    "pron": "édiukeitor",
+    "en": "educator"
+  },
+  {
+    "es": "personal",
+    "pron": "pérsonel",
+    "en": "personnel"
+  },
+  {
+    "es": "confrontar",
+    "pron": "konfrónt",
+    "en": "confront"
+  },
+  {
+    "es": "terrorista",
+    "pron": "térorist",
+    "en": "terrorist"
+  },
+  {
+    "es": "real",
+    "pron": "róial",
+    "en": "royal"
+  },
+  {
+    "es": "élite",
+    "pron": "ilít",
+    "en": "elite"
+  },
+  {
+    "es": "ocupar",
+    "pron": "ókiupai",
+    "en": "occupy"
+  },
+  {
+    "es": "énfasis",
+    "pron": "émfasis",
+    "en": "emphasis"
+  },
+  {
+    "es": "destrucción",
+    "pron": "destrúktshon",
+    "en": "destruction"
+  },
+  {
+    "es": "interior",
+    "pron": "íner",
+    "en": "inner"
+  },
+  {
+    "es": "proceder",
+    "pron": "prosíd",
+    "en": "proceed"
+  },
+  {
+    "es": "violar",
+    "pron": "váiolet",
+    "en": "violate"
+  },
+  {
+    "es": "gráfico",
+    "pron": "chart",
+    "en": "chart"
+  },
+  {
+    "es": "ritmo",
+    "pron": "peis",
+    "en": "pace"
+  },
+  {
+    "es": "finanzas",
+    "pron": "fináns",
+    "en": "finance"
+  },
+  {
+    "es": "chasquido",
+    "pron": "snap",
+    "en": "snap"
+  },
+  {
+    "es": "aconsejar",
+    "pron": "adváis",
+    "en": "advise"
+  },
+  {
+    "es": "inicialmente",
+    "pron": "iníshali",
+    "en": "initially"
+  },
+  {
+    "es": "avanzado",
+    "pron": "advánst",
+    "en": "advanced"
+  },
+  {
+    "es": "poco probable",
+    "pron": "anláikli",
+    "en": "unlikely"
+  },
+  {
+    "es": "defender",
+    "pron": "advókeit",
+    "en": "advocate"
+  },
+  {
+    "es": "carga",
+    "pron": "bérden",
+    "en": "burden"
+  },
+  {
+    "es": "violación",
+    "pron": "vaioléishon",
+    "en": "violation"
+  },
+  {
+    "es": "a diferencia",
+    "pron": "de anláik",
+    "en": "unlike"
+  },
+  {
+    "es": "idiota",
+    "pron": "ídiot",
+    "en": "idiot"
+  },
+  {
+    "es": "vida",
+    "pron": "láiftaim",
+    "en": "lifetime"
+  },
+  {
+    "es": "laboral",
+    "pron": "uórkin",
+    "en": "working"
+  },
+  {
+    "es": "en curso",
+    "pron": "óngoin",
+    "en": "ongoing"
+  },
+  {
+    "es": "reaccionar",
+    "pron": "riákt",
+    "en": "react"
+  },
+  {
+    "es": "rutina",
+    "pron": "rutín",
+    "en": "routine"
+  },
+  {
+    "es": "presentación",
+    "pron": "presenteishon",
+    "en": "presentation"
+  },
+  {
+    "es": "equipo",
+    "pron": "guír",
+    "en": "gear"
+  },
+  {
+    "es": "traducir",
+    "pron": "transléit",
+    "en": "translate"
+  },
+  {
+    "es": "hipoteca",
+    "pron": "mórgich",
+    "en": "mortgage"
+  },
+  {
+    "es": "sheriff",
+    "pron": "shérif",
+    "en": "sheriff"
+  },
+  {
+    "es": "clínica",
+    "pron": "klínik",
+    "en": "clinic"
+  },
+  {
+    "es": "girar",
+    "pron": "spin",
+    "en": "spin"
+  },
+  {
+    "es": "coalición",
+    "pron": "koalíshon",
+    "en": "coalition"
+  },
+  {
+    "es": "naturalmente",
+    "pron": "nácherali",
+    "en": "naturally"
+  },
+  {
+    "es": "ojalá",
+    "pron": "jóupfuli",
+    "en": "hopefully"
+  },
+  {
+    "es": "suave",
+    "pron": "smúz",
+    "en": "smooth"
+  },
+  {
+    "es": "publicidad",
+    "pron": "ádvertáisin",
+    "en": "advertising"
+  },
+  {
+    "es": "interpretar",
+    "pron": "interpét",
+    "en": "interpret"
+  },
+  {
+    "es": "descartar",
+    "pron": "dismís",
+    "en": "dismiss"
+  },
+  {
+    "es": "aparente",
+    "pron": "apárent",
+    "en": "apparent"
+  },
+  {
+    "es": "arreglo",
+    "pron": "arréinshment",
+    "en": "arrangement"
+  },
+  {
+    "es": "incorporar",
+    "pron": "inkórporeit",
+    "en": "incorporate"
+  },
+  {
+    "es": "dividir",
+    "pron": "split",
+    "en": "split"
+  },
+  {
+    "es": "brillante",
+    "pron": "bríliant",
+    "en": "brilliant"
+  },
+  {
+    "es": "marco",
+    "pron": "fréimuork",
+    "en": "framework"
+  },
+  {
+    "es": "honestamente",
+    "pron": "ónestli",
+    "en": "honestly"
+  },
+  {
+    "es": "perseguir",
+    "pron": "chéis",
+    "en": "chase"
+  },
+  {
+    "es": "suspiro",
+    "pron": "sái",
+    "en": "sigh"
+  },
+  {
+    "es": "asegurar",
+    "pron": "ashúr",
+    "en": "assure"
+  },
+  {
+    "es": "servicio",
+    "pron": "iutíliti",
+    "en": "utility"
+  },
+  {
+    "es": "agresivo",
+    "pron": "agrésiv",
+    "en": "aggressive"
+  },
+  {
+    "es": "terror",
+    "pron": "téror",
+    "en": "terror"
+  },
+  {
+    "es": "rico",
+    "pron": "uélzi",
+    "en": "wealthy"
+  },
+  {
+    "es": "actualizar",
+    "pron": "apdéit",
+    "en": "update"
+  },
+  {
+    "es": "foro",
+    "pron": "fórum",
+    "en": "forum"
+  },
+  {
+    "es": "alianza",
+    "pron": "aláiens",
+    "en": "alliance"
+  },
+  {
+    "es": "poseer",
+    "pron": "pozés",
+    "en": "possess"
+  },
+  {
+    "es": "imperio",
+    "pron": "émpair",
+    "en": "empire"
+  },
+  {
+    "es": "curioso",
+    "pron": "kiúrias",
+    "en": "curious"
+  },
+  {
+    "es": "calcular",
+    "pron": "kálkiuleit",
+    "en": "calculate"
+  },
+  {
+    "es": "apurarse",
+    "pron": "jári",
+    "en": "hurry"
+  },
+  {
+    "es": "testimonio",
+    "pron": "téstimoni",
+    "en": "testimony"
+  },
+  {
+    "es": "elemental",
+    "pron": "elémentari",
+    "en": "elementary"
+  },
+  {
+    "es": "apuesta",
+    "pron": "stéik",
+    "en": "stake"
+  },
+  {
+    "es": "precisamente",
+    "pron": "prisáisli",
+    "en": "precisely"
+  },
+  {
+    "es": "dado",
+    "pron": "gíven",
+    "en": "given"
+  },
+  {
+    "es": "sustancial",
+    "pron": "səbstánshal",
+    "en": "substantial"
+  },
+  {
+    "es": "dependiendo",
+    "pron": "dipéndin",
+    "en": "depending"
+  },
+  {
+    "es": "mirada",
+    "pron": "gláns",
+    "en": "glance"
+  },
+  {
+    "es": "tejido",
+    "pron": "tíshu",
+    "en": "tissue"
+  },
+  {
+    "es": "concentración",
+    "pron": "koncentréishon",
+    "en": "concentration"
+  },
+  {
+    "es": "desarrollador",
+    "pron": "divéloper",
+    "en": "developer"
+  },
+  {
+    "es": "fundar",
+    "pron": "fáund",
+    "en": "found"
+  },
+  {
+    "es": "boleta",
+    "pron": "bálot",
+    "en": "ballot"
+  },
+  {
+    "es": "consumir",
+    "pron": "konsúm",
+    "en": "consume"
+  },
+  {
+    "es": "superar",
+    "pron": "óuverkóm",
+    "en": "overcome"
+  },
+  {
+    "es": "biológico",
+    "pron": "baiolódʒikal",
+    "en": "biological"
+  },
+  {
+    "es": "cámara",
+    "pron": "chéimber",
+    "en": "chamber"
+  },
+  {
+    "es": "de manera similar",
+    "pron": "símilali",
+    "en": "similarly"
+  },
+  {
+    "es": "atreverse",
+    "pron": "dér",
+    "en": "dare"
+  },
+  {
+    "es": "en desarrollo",
+    "pron": "divélopin",
+    "en": "developing"
+  },
+  {
+    "es": "proporción",
+    "pron": "réishio",
+    "en": "ratio"
+  },
+  {
+    "es": "amante",
+    "pron": "lóver",
+    "en": "lover"
+  },
+  {
+    "es": "expansión",
+    "pron": "ikspánshon",
+    "en": "expansion"
+  },
+  {
+    "es": "encuentro",
+    "pron": "enkáunter",
+    "en": "encounter"
+  },
+  {
+    "es": "ocasionalmente",
+    "pron": "okéishonali",
+    "en": "occasionally"
+  },
+  {
+    "es": "desempleo",
+    "pron": "anemplóiment",
+    "en": "unemployment"
+  },
+  {
+    "es": "horrible",
+    "pron": "ófəl",
+    "en": "awful"
+  },
+  {
+    "es": "administrador",
+    "pron": "adminístreitor",
+    "en": "administrator"
+  },
+  {
+    "es": "quarterback",
+    "pron": "kuórterbak",
+    "en": "quarterback"
+  },
+  {
+    "es": "preparación",
+    "pron": "preparéishon",
+    "en": "preparation"
+  },
+  {
+    "es": "pariente",
+    "pron": "rélativ",
+    "en": "relative"
+  },
+  {
+    "es": "seguro",
+    "pron": "kónfident",
+    "en": "confident"
+  },
+  {
+    "es": "estratégico",
+    "pron": "stratéjik",
+    "en": "strategic"
+  },
+  {
+    "es": "marino",
+    "pron": "marín",
+    "en": "marine"
+  },
+  {
+    "es": "editor",
+    "pron": "páblisher",
+    "en": "publisher"
+  },
+  {
+    "es": "innovación",
+    "pron": "inovéishon",
+    "en": "innovation"
+  },
+  {
+    "es": "rango",
+    "pron": "rank",
+    "en": "rank"
+  },
+  {
+    "es": "electricidad",
+    "pron": "ilektrísiti",
+    "en": "electricity"
+  },
+  {
+    "es": "caso",
+    "pron": "ínstans",
+    "en": "instance"
+  },
+  {
+    "es": "fortuna",
+    "pron": "fórchun",
+    "en": "fortune"
+  },
+  {
+    "es": "variación",
+    "pron": "varíeishon",
+    "en": "variation"
+  },
+  {
+    "es": "armado",
+    "pron": "ármd",
+    "en": "armed"
+  },
+  {
+    "es": "negociar",
+    "pron": "nigóusheieit",
+    "en": "negotiate"
+  },
+  {
+    "es": "sabiduría",
+    "pron": "uísdom",
+    "en": "wisdom"
+  },
+  {
+    "es": "corresponsal",
+    "pron": "korrespóndent",
+    "en": "correspondent"
+  },
+  {
+    "es": "mezcla",
+    "pron": "míkster",
+    "en": "mixture"
+  },
+  {
+    "es": "asistente",
+    "pron": "asístent",
+    "en": "assistant"
+  },
+  {
+    "es": "retener",
+    "pron": "ritéin",
+    "en": "retain"
+  },
+  {
+    "es": "testificar",
+    "pron": "téstifai",
+    "en": "testify"
+  },
+  {
+    "es": "calificar",
+    "pron": "kuálifai",
+    "en": "qualify"
+  },
+  {
+    "es": "vergüenza",
+    "pron": "shéim",
+    "en": "shame"
+  },
+  {
+    "es": "concurso",
+    "pron": "kóntest",
+    "en": "contest"
+  },
+  {
+    "es": "introducción",
+    "pron": "introdrákshon",
+    "en": "introduction"
+  },
+  {
+    "es": "frontera",
+    "pron": "báunderi",
+    "en": "boundary"
+  },
+  {
+    "es": "contra",
+    "pron": "vérsus",
+    "en": "versus"
+  },
+  {
+    "es": "regularmente",
+    "pron": "réguelarli",
+    "en": "regularly"
+  },
+  {
+    "es": "palestino",
+    "pron": "palestíni",
+    "en": "Palestinian"
+  },
+  {
+    "es": "fiscal",
+    "pron": "fískal",
+    "en": "fiscal"
+  },
+  {
+    "es": "arroyo",
+    "pron": "krík",
+    "en": "creek"
+  },
+  {
+    "es": "moderno",
+    "pron": "hip",
+    "en": "hip"
+  },
+  {
+    "es": "acompañar",
+    "pron": "akompaní",
+    "en": "accompany"
+  },
+  {
+    "es": "terrorismo",
+    "pron": "térorizm",
+    "en": "terrorism"
+  },
+  {
+    "es": "encuestado",
+    "pron": "rispóndent",
+    "en": "respondent"
+  },
+  {
+    "es": "narrador",
+    "pron": "nárreitor",
+    "en": "narrator"
+  },
+  {
+    "es": "votación",
+    "pron": "vóutin",
+    "en": "voting"
+  },
+  {
+    "es": "refugiado",
+    "pron": "réfiu-yí",
+    "en": "refugee"
+  },
+  {
+    "es": "asamblea",
+    "pron": "asémli",
+    "en": "assembly"
+  },
+  {
+    "es": "fraude",
+    "pron": "fród",
+    "en": "fraud"
+  },
+  {
+    "es": "limitación",
+    "pron": "limitéeishon",
+    "en": "limitation"
+  },
+  {
+    "es": "asociación",
+    "pron": "pártnershíp",
+    "en": "partnership"
+  },
+  {
+    "es": "representación",
+    "pron": "reprisentéishon",
+    "en": "representation"
+  },
+  {
+    "es": "ministerio",
+    "pron": "mínistri",
+    "en": "ministry"
+  },
+  {
+    "es": "sabio",
+    "pron": "uáis",
+    "en": "wise"
+  },
+  {
+    "es": "registrar",
+    "pron": "rédyister",
+    "en": "register"
+  },
+  {
+    "es": "comedia",
+    "pron": "kómedi",
+    "en": "comedy"
+  },
+  {
+    "es": "infraestructura",
+    "pron": "infrástrakcher",
+    "en": "infrastructure"
+  },
+  {
+    "es": "orgánico",
+    "pron": "orgánik",
+    "en": "organic"
+  },
+  {
+    "es": "islam",
+    "pron": "islám",
+    "en": "Islam"
+  },
+  {
+    "es": "diverso",
+    "pron": "daivérs",
+    "en": "diverse"
+  },
+  {
+    "es": "intelectual",
+    "pron": "intelékchual",
+    "en": "intellectual"
+  },
+  {
+    "es": "ajustado",
+    "pron": "táit",
+    "en": "tight"
+  },
+  {
+    "es": "destino",
+    "pron": "féit",
+    "en": "fate"
+  },
+  {
+    "es": "absoluto",
+    "pron": "ábsəlut",
+    "en": "absolute"
+  },
+  {
+    "es": "diálogo",
+    "pron": "dáiolog",
+    "en": "dialogue"
+  },
+  {
+    "es": "frecuencia",
+    "pron": "fríkuensi",
+    "en": "frequency"
+  },
+  {
+    "es": "externo",
+    "pron": "ikstérnal",
+    "en": "external"
+  },
+  {
+    "es": "convertir",
+    "pron": "konvért",
+    "en": "convert"
+  },
+  {
+    "es": "sorprendente",
+    "pron": "serpráisɪng",
+    "en": "surprising"
+  },
+  {
+    "es": "móvil",
+    "pron": "móubail",
+    "en": "mobile"
+  },
+  {
+    "es": "establecimiento",
+    "pron": "istáblishment",
+    "en": "establishment"
+  },
+  {
+    "es": "celebridad",
+    "pron": "selébrɪti",
+    "en": "celebrity"
+  },
+  {
+    "es": "congresista",
+    "pron": "kóngresman",
+    "en": "congressman"
+  },
+  {
+    "es": "impresionar",
+    "pron": "imprés",
+    "en": "impress"
+  },
+  {
+    "es": "contribuyente",
+    "pron": "tákspéier",
+    "en": "taxpayer"
+  },
+  {
+    "es": "adaptar",
+    "pron": "adápt",
+    "en": "adapt"
+  },
+  {
+    "es": "públicamente",
+    "pron": "páblikli",
+    "en": "publicly"
+  },
+  {
+    "es": "orgullo",
+    "pron": "práid",
+    "en": "pride"
+  },
+  {
+    "es": "ropa",
+    "pron": "klóuzing",
+    "en": "clothing"
+  },
+  {
+    "es": "rápidamente",
+    "pron": "rápidli",
+    "en": "rapidly"
+  },
+  {
+    "es": "dominio",
+    "pron": "doméin",
+    "en": "domain"
+  },
+  {
+    "es": "principalmente",
+    "pron": "méinli",
+    "en": "mainly"
+  },
+  {
+    "es": "techo",
+    "pron": "sílin",
+    "en": "ceiling"
+  },
+  {
+    "es": "alterar",
+    "pron": "ólter",
+    "en": "alter"
+  },
+  {
+    "es": "refugio",
+    "pron": "shélter",
+    "en": "shelter"
+  },
+  {
+    "es": "aleatorio",
+    "pron": "rándom",
+    "en": "random"
+  },
+  {
+    "es": "obligación",
+    "pron": "obliguéishon",
+    "en": "obligation"
+  },
+  {
+    "es": "dormido",
+    "pron": "aslíip",
+    "en": "asleep"
+  },
+  {
+    "es": "músico",
+    "pron": "miuzíshon",
+    "en": "musician"
+  },
+  {
+    "es": "extraordinario",
+    "pron": "ekstráordinari",
+    "en": "extraordinary"
+  },
+  {
+    "es": "suciedad",
+    "pron": "dért",
+    "en": "dirt"
+  },
+  {
+    "es": "ceremonia",
+    "pron": "sérimoni",
+    "en": "ceremony"
+  },
+  {
+    "es": "pista",
+    "pron": "klú",
+    "en": "clue"
+  },
+  {
+    "es": "directriz",
+    "pron": "gáid-lain",
+    "en": "guideline"
+  },
+  {
+    "es": "comodidad",
+    "pron": "kómfort",
+    "en": "comfort"
+  },
+  {
+    "es": "pedir prestado",
+    "pron": "bórou",
+    "en": "borrow"
+  },
+  {
+    "es": "convencional",
+    "pron": "konvénshonal",
+    "en": "conventional"
+  },
+  {
+    "es": "incentivo",
+    "pron": "inséntiv",
+    "en": "incentive"
+  },
+  {
+    "es": "costumbre",
+    "pron": "kástom",
+    "en": "custom"
+  },
+  {
+    "es": "exhaustivo",
+    "pron": "komprijénsiv",
+    "en": "comprehensive"
+  },
+  {
+    "es": "estable",
+    "pron": "stéibol",
+    "en": "stable"
+  },
+  {
+    "es": "guion",
+    "pron": "skrípt",
+    "en": "script"
+  },
+  {
+    "es": "educar",
+    "pron": "édiukeit",
+    "en": "educate"
+  },
+  {
+    "es": "eficiente",
+    "pron": "ifíshent",
+    "en": "efficient"
+  },
+  {
+    "es": "asustar",
+    "pron": "skér",
+    "en": "scare"
+  },
+  {
+    "es": "psicología",
+    "pron": "saikóloyi",
+    "en": "psychology"
+  },
+  {
+    "es": "lógica",
+    "pron": "lódʒik",
+    "en": "logic"
+  },
+  {
+    "es": "economía",
+    "pron": "ikonómiks",
+    "en": "economics"
+  },
+  {
+    "es": "sin embargo",
+    "pron": "néverdelés",
+    "en": "nevertheless"
+  },
+  {
+    "es": "treinta",
+    "pron": "zérti",
+    "en": "thirty"
+  },
+  {
+    "es": "caridad",
+    "pron": "cháriti",
+    "en": "charity"
+  },
+  {
+    "es": "ideal",
+    "pron": "aidíal",
+    "en": "ideal"
+  },
+  {
+    "es": "red",
+    "pron": "nét",
+    "en": "net"
+  },
+  {
+    "es": "motivación",
+    "pron": "motivéishon",
+    "en": "motivation"
+  },
+  {
+    "es": "de manera diferente",
+    "pron": "dífrenli",
+    "en": "differently"
+  },
+  {
+    "es": "reserva",
+    "pron": "rizérv",
+    "en": "reserve"
+  },
+  {
+    "es": "observador",
+    "pron": "obsérver",
+    "en": "observer"
+  },
+  {
+    "es": "humanidad",
+    "pron": "hiúmaniti",
+    "en": "humanity"
+  },
+  {
+    "es": "en silencio",
+    "pron": "kuáietli",
+    "en": "quietly"
+  },
+  {
+    "es": "humor",
+    "pron": "hiúmor",
+    "en": "humor"
+  },
+  {
+    "es": "portavoz",
+    "pron": "spóuksmən",
+    "en": "spokesman"
+  },
+  {
+    "es": "extensión",
+    "pron": "iksténshon",
+    "en": "extension"
+  },
+  {
+    "es": "suelto",
+    "pron": "lús",
+    "en": "loose"
+  },
+  {
+    "es": "historiador",
+    "pron": "históriən",
+    "en": "historian"
+  },
+  {
+    "es": "químico",
+    "pron": "kémikal",
+    "en": "chemical"
+  },
+  {
+    "es": "especialista",
+    "pron": "spéshalist",
+    "en": "specialist"
+  },
+  {
+    "es": "desaparecido",
+    "pron": "mísin",
+    "en": "missing"
+  },
+  {
+    "es": "distribuir",
+    "pron": "distríbiut",
+    "en": "distribute"
+  },
+  {
+    "es": "tonto",
+    "pron": "síli",
+    "en": "silly"
+  },
+  {
+    "es": "reflexión",
+    "pron": "rifléksion",
+    "en": "reflection"
+  },
+  {
+    "es": "en breve",
+    "pron": "shórtli",
+    "en": "shortly"
+  },
+  {
+    "es": "base de datos",
+    "pron": "déitabéis",
+    "en": "database"
+  },
+  {
+    "es": "remoto",
+    "pron": "rimóut",
+    "en": "remote"
+  },
+  {
+    "es": "permiso",
+    "pron": "permíshon",
+    "en": "permission"
+  },
+  {
+    "es": "notable",
+    "pron": "rimárkabol",
+    "en": "remarkable"
+  },
+  {
+    "es": "cotidiano",
+    "pron": "évridei",
+    "en": "everyday"
+  },
+  {
+    "es": "estilo de vida",
+    "pron": "láifstail",
+    "en": "lifestyle"
+  },
+  {
+    "es": "suficiente",
+    "pron": "safíshent",
+    "en": "sufficient"
+  },
+  {
+    "es": "consumo",
+    "pron": "konsámshon",
+    "en": "consumption"
+  },
+  {
+    "es": "capacidad",
+    "pron": "keipabíliti",
+    "en": "capability"
+  },
+  {
+    "es": "emisión",
+    "pron": "imíshon",
+    "en": "emission"
+  },
+  {
+    "es": "barra lateral",
+    "pron": "sáidbar",
+    "en": "sidebar"
+  },
+  {
+    "es": "mierda",
+    "pron": "krap",
+    "en": "crap"
+  },
+  {
+    "es": "vendedor",
+    "pron": "díler",
+    "en": "dealer"
+  },
+  {
+    "es": "medición",
+    "pron": "méshurment",
+    "en": "measurement"
+  },
+  {
+    "es": "vital",
+    "pron": "váital",
+    "en": "vital"
+  },
+  {
+    "es": "impresionante",
+    "pron": "imprésiv",
+    "en": "impressive"
+  },
+  {
+    "es": "fantástico",
+    "pron": "fantástik",
+    "en": "fantastic"
+  },
+  {
+    "es": "asesor",
+    "pron": "adváisər",
+    "en": "adviser"
+  },
+  {
+    "es": "producir",
+    "pron": "yíld",
+    "en": "yield"
+  },
+  {
+    "es": "mero",
+    "pron": "mír",
+    "en": "mere"
+  },
+  {
+    "es": "imaginación",
+    "pron": "imayinéishon",
+    "en": "imagination"
+  },
+  {
+    "es": "radical",
+    "pron": "rádikal",
+    "en": "radical"
+  },
+  {
+    "es": "tragedia",
+    "pron": "tráyedi",
+    "en": "tragedy"
+  },
+  {
+    "es": "aterrador",
+    "pron": "skéri",
+    "en": "scary"
+  },
+  {
+    "es": "consultor",
+    "pron": "konsáltant",
+    "en": "consultant"
+  },
+  {
+    "es": "teniente",
+    "pron": "liútenant",
+    "en": "lieutenant"
+  },
+  {
+    "es": "molesto",
+    "pron": "apsét",
+    "en": "upset"
+  },
+  {
+    "es": "atractivo",
+    "pron": "atráktiv",
+    "en": "attractive"
+  },
+  {
+    "es": "acre",
+    "pron": "éiker",
+    "en": "acre"
+  },
+  {
+    "es": "derrota",
+    "pron": "difít",
+    "en": "defeat"
+  },
+  {
+    "es": "recién",
+    "pron": "núli",
+    "en": "newly"
+  },
+  {
+    "es": "escándalo",
+    "pron": "skándal",
+    "en": "scandal"
+  },
+  {
+    "es": "embajador",
+    "pron": "ambásador",
+    "en": "ambassador"
+  },
+  {
+    "es": "banco",
+    "pron": "bénch",
+    "en": "bench"
+  },
+  {
+    "es": "mostrador",
+    "pron": "káunter",
+    "en": "counter"
+  },
+  {
+    "es": "probabilidades",
+    "pron": "odz",
+    "en": "odds"
+  },
+  {
+    "es": "horror",
+    "pron": "hóror",
+    "en": "horror"
+  },
+  {
+    "es": "vulnerable",
+    "pron": "vúlnerabol",
+    "en": "vulnerable"
+  },
+  {
+    "es": "prevención",
+    "pron": "privénshon",
+    "en": "prevention"
+  },
+  {
+    "es": "segmento",
+    "pron": "ségment",
+    "en": "segment"
+  },
+  {
+    "es": "prohibir",
+    "pron": "bán",
+    "en": "ban"
+  },
+  {
+    "es": "constituir",
+    "pron": "kónstitut",
+    "en": "constitute"
+  },
+  {
+    "es": "mal",
+    "pron": "bádli",
+    "en": "badly"
+  },
+  {
+    "es": "bendecir",
+    "pron": "blés",
+    "en": "bless"
+  },
+  {
+    "es": "literario",
+    "pron": "lítəreri",
+    "en": "literary"
+  },
+  {
+    "es": "implementación",
+    "pron": "implimentéishon",
+    "en": "implementation"
+  },
+  {
+    "es": "legítimo",
+    "pron": "ledʒítimet",
+    "en": "legitimate"
+  },
+  {
+    "es": "leve",
+    "pron": "sláit",
+    "en": "slight"
+  },
+  {
+    "es": "quitar",
+    "pron": "strip",
+    "en": "strip"
+  },
+  {
+    "es": "desesperado",
+    "pron": "désperet",
+    "en": "desperate"
+  },
+  {
+    "es": "distante",
+    "pron": "dístent",
+    "en": "distant"
+  },
+  {
+    "es": "preferencia",
+    "pron": "préference",
+    "en": "preference"
+  },
+  {
+    "es": "políticamente",
+    "pron": "polítikali",
+    "en": "politically"
+  },
+  {
+    "es": "retroalimentación",
+    "pron": "fídbak",
+    "en": "feedback"
+  },
+  {
+    "es": "sanidad",
+    "pron": "hélth ker",
+    "en": "health-care"
+  },
+  {
+    "es": "italiano",
+    "pron": "itáliən",
+    "en": "Italian"
+  },
+  {
+    "es": "detallado",
+    "pron": "díteil’d",
+    "en": "detailed"
+  },
+  {
+    "es": "comprador",
+    "pron": "báyer",
+    "en": "buyer"
+  },
+  {
+    "es": "cooperación",
+    "pron": "kuóoperéishon",
+    "en": "cooperation"
+  },
+  {
+    "es": "profesión",
+    "pron": "proféshon",
+    "en": "profession"
+  },
+  {
+    "es": "increíblemente",
+    "pron": "inkrédibli",
+    "en": "incredibly"
+  },
+  {
+    "es": "matanza",
+    "pron": "kílin",
+    "en": "killing"
+  },
+  {
+    "es": "demandar",
+    "pron": "sú",
+    "en": "sue"
+  },
+  {
+    "es": "en funcionamiento",
+    "pron": "ránin",
+    "en": "running"
+  },
+  {
+    "es": "diferir",
+    "pron": "dífer",
+    "en": "differ"
+  },
+  {
+    "es": "lanzamiento",
+    "pron": "pích",
+    "en": "pitch"
+  },
+  {
+    "es": "extenso",
+    "pron": "iksténsiv",
+    "en": "extensive"
+  },
+  {
+    "es": "escalón",
+    "pron": "stér",
+    "en": "stair"
+  },
+  {
+    "es": "gracia",
+    "pron": "gréis",
+    "en": "grace"
+  },
+  {
+    "es": "embarcación",
+    "pron": "vésel",
+    "en": "vessel"
+  },
+  {
+    "es": "asignación",
+    "pron": "asáinment",
+    "en": "assignment"
+  },
+  {
+    "es": "distinción",
+    "pron": "distínkshon",
+    "en": "distinction"
+  },
+  {
+    "es": "circuito",
+    "pron": "sérkit",
+    "en": "circuit"
+  },
+  {
+    "es": "canadiense",
+    "pron": "kanéidian",
+    "en": "Canadian"
+  },
+  {
+    "es": "huir",
+    "pron": "flí",
+    "en": "flee"
+  },
+  {
+    "es": "eficiencia",
+    "pron": "efíshensi",
+    "en": "efficiency"
+  },
+  {
+    "es": "memorial",
+    "pron": "memóriəl",
+    "en": "memorial"
+  },
+  {
+    "es": "propuesto",
+    "pron": "propóuzd",
+    "en": "proposed"
+  },
+  {
+    "es": "entidad",
+    "pron": "éntiti",
+    "en": "entity"
+  },
+  {
+    "es": "pausa",
+    "pron": "póz",
+    "en": "pause"
+  },
+  {
+    "es": "pastilla",
+    "pron": "píl",
+    "en": "pill"
+  },
+  {
+    "es": "frotar",
+    "pron": "rʌb",
+    "en": "rub"
+  },
+  {
+    "es": "romántico",
+    "pron": "romántik",
+    "en": "romantic"
+  },
+  {
+    "es": "mito",
+    "pron": "míz",
+    "en": "myth"
+  },
+  {
+    "es": "economista",
+    "pron": "ikonómist",
+    "en": "economist"
+  },
+  {
+    "es": "latino",
+    "pron": "látin",
+    "en": "Latin"
+  },
+  {
+    "es": "decente",
+    "pron": "dísent",
+    "en": "decent"
+  },
+  {
+    "es": "artesanía",
+    "pron": "kráft",
+    "en": "craft"
+  },
+  {
+    "es": "poesía",
+    "pron": "póuitri",
+    "en": "poetry"
+  },
+  {
+    "es": "natural",
+    "pron": "nácheral",
+    "en": "natural"
+  },
+  {
+    "es": "hilo",
+    "pron": "zréd",
+    "en": "thread"
+  },
+  {
+    "es": "de madera",
+    "pron": "wúden",
+    "en": "wooden"
+  },
+  {
+    "es": "confundir",
+    "pron": "konfiúz",
+    "en": "confuse"
+  },
+  {
+    "es": "privilegio",
+    "pron": "príviledch",
+    "en": "privilege"
+  },
+  {
+    "es": "carbón",
+    "pron": "kóul",
+    "en": "coal"
+  },
+  {
+    "es": "tonto",
+    "pron": "fúl",
+    "en": "fool"
+  },
+  {
+    "es": "caracterizar",
+    "pron": "kérakteraiz",
+    "en": "characterize"
+  },
+  {
+    "es": "disminuir",
+    "pron": "dikrís",
+    "en": "decrease"
+  },
+  {
+    "es": "legado",
+    "pron": "légasi",
+    "en": "legacy"
+  },
+  {
+    "es": "francamente",
+    "pron": "fránkli",
+    "en": "frankly"
+  },
+  {
+    "es": "cancelar",
+    "pron": "kánsel",
+    "en": "cancel"
+  },
+  {
+    "es": "derivar",
+    "pron": "diráiv",
+    "en": "derive"
+  },
+  {
+    "es": "idiota",
+    "pron": "dʌm",
+    "en": "dumb"
+  },
+  {
+    "es": "alcance",
+    "pron": "skóup",
+    "en": "scope"
+  },
+  {
+    "es": "formación",
+    "pron": "forméishon",
+    "en": "formation"
+  },
+  {
+    "es": "por lo tanto",
+    "pron": "jéns",
+    "en": "hence"
+  },
+  {
+    "es": "margen",
+    "pron": "márchin",
+    "en": "margin"
+  },
+  {
+    "es": "exposición",
+    "pron": "eksibíshon",
+    "en": "exhibition"
+  },
+  {
+    "es": "legislatura",
+    "pron": "lédchisléicher",
+    "en": "legislature"
+  },
+  {
+    "es": "además",
+    "pron": "fárdermor",
+    "en": "furthermore"
+  },
+  {
+    "es": "retrato",
+    "pron": "pórtrait",
+    "en": "portrait"
+  },
+  {
+    "es": "sostener",
+    "pron": "sastéin",
+    "en": "sustain"
+  },
+  {
+    "es": "uniforme",
+    "pron": "iúniform",
+    "en": "uniform"
+  },
+  {
+    "es": "doloroso",
+    "pron": "péinfəl",
+    "en": "painful"
+  },
+  {
+    "es": "ruidoso",
+    "pron": "láud",
+    "en": "loud"
+  },
+  {
+    "es": "milagro",
+    "pron": "mírakol",
+    "en": "miracle"
+  },
+  {
+    "es": "daño",
+    "pron": "hárm",
+    "en": "harm"
+  },
+  {
+    "es": "cero",
+    "pron": "zírou",
+    "en": "zero"
+  },
+  {
+    "es": "táctica",
+    "pron": "táktik",
+    "en": "tactic"
+  },
+  {
+    "es": "calmo",
+    "pron": "kám",
+    "en": "calm"
+  },
+  {
+    "es": "inflación",
+    "pron": "infléishon",
+    "en": "inflation"
+  },
+  {
+    "es": "caza",
+    "pron": "hántin",
+    "en": "hunting"
+  },
+  {
+    "es": "físicamente",
+    "pron": "físikali",
+    "en": "physically"
+  },
+  {
+    "es": "carne",
+    "pron": "flésh",
+    "en": "flesh"
+  },
+  {
+    "es": "temporal",
+    "pron": "témporeri",
+    "en": "temporary"
+  },
+  {
+    "es": "nervio",
+    "pron": "nérv",
+    "en": "nerve"
+  },
+  {
+    "es": "estable",
+    "pron": "stédi",
+    "en": "steady"
+  },
+  {
+    "es": "titular",
+    "pron": "jédlain",
+    "en": "headline"
+  },
+  {
+    "es": "repentino",
+    "pron": "sáden",
+    "en": "sudden"
+  },
+  {
+    "es": "exitosamente",
+    "pron": "saksesfúli",
+    "en": "successfully"
+  },
+  {
+    "es": "acusado",
+    "pron": "diféndant",
+    "en": "defendant"
+  },
+  {
+    "es": "polo",
+    "pron": "póul",
+    "en": "pole"
+  },
+  {
+    "es": "satisfacer",
+    "pron": "sátisfai",
+    "en": "satisfy"
+  },
+  {
+    "es": "aeronave",
+    "pron": "érkraft",
+    "en": "aircraft"
+  },
+  {
+    "es": "retirarse",
+    "pron": "uizdró",
+    "en": "withdraw"
+  },
+  {
+    "es": "repetidamente",
+    "pron": "ripítdli",
+    "en": "repeatedly"
+  },
+  {
+    "es": "felicidad",
+    "pron": "jápenes",
+    "en": "happiness"
+  },
+  {
+    "es": "admisión",
+    "pron": "admíshon",
+    "en": "admission"
+  },
+  {
+    "es": "correlación",
+    "pron": "korelèishon",
+    "en": "correlation"
+  },
+  {
+    "es": "proporción",
+    "pron": "propórshon",
+    "en": "proportion"
+  },
+  {
+    "es": "disputa",
+    "pron": "dispíut",
+    "en": "dispute"
+  },
+  {
+    "es": "recompensa",
+    "pron": "riwórd",
+    "en": "reward"
+  },
+  {
+    "es": "consejero",
+    "pron": "káunselor",
+    "en": "counselor"
+  },
+  {
+    "es": "grabación",
+    "pron": "rekórdin",
+    "en": "recording"
+  },
+  {
+    "es": "montón",
+    "pron": "páil",
+    "en": "pile"
+  },
+  {
+    "es": "explosión",
+    "pron": "eksplóushon",
+    "en": "explosion"
+  },
+  {
+    "es": "nombrar",
+    "pron": "apóint",
+    "en": "appoint"
+  },
+  {
+    "es": "sofá",
+    "pron": "káuch",
+    "en": "couch"
+  },
+  {
+    "es": "cognitivo",
+    "pron": "kógnetiv",
+    "en": "cognitive"
+  },
+  {
+    "es": "significado",
+    "pron": "signífikans",
+    "en": "significance"
+  },
+  {
+    "es": "agradecido",
+    "pron": "gréitful",
+    "en": "grateful"
+  },
+  {
+    "es": "comisionado",
+    "pron": "komíshoner",
+    "en": "commissioner"
+  },
+  {
+    "es": "tremendo",
+    "pron": "triméndos",
+    "en": "tremendous"
+  },
+  {
+    "es": "física",
+    "pron": "físiks",
+    "en": "physics"
+  },
+  {
+    "es": "apretar",
+    "pron": "skuíiz",
+    "en": "squeeze"
+  },
+  {
+    "es": "destacado",
+    "pron": "próminent",
+    "en": "prominent"
+  },
+  {
+    "es": "cincuenta",
+    "pron": "fífti",
+    "en": "fifty"
+  },
+  {
+    "es": "desvanecerse",
+    "pron": "féid",
+    "en": "fade"
+  },
+  {
+    "es": "satisfacción",
+    "pron": "satísfakshon",
+    "en": "satisfaction"
+  },
+  {
+    "es": "discriminación",
+    "pron": "diskriminéishon",
+    "en": "discrimination"
+  },
+  {
+    "es": "recesión",
+    "pron": "riséshon",
+    "en": "recession"
+  },
+  {
+    "es": "alegación",
+    "pron": "alleguéishon",
+    "en": "allegation"
+  },
+  {
+    "es": "auge",
+    "pron": "búm",
+    "en": "boom"
+  },
+  {
+    "es": "semanal",
+    "pron": "uíikli",
+    "en": "weekly"
+  },
+  {
+    "es": "últimamente",
+    "pron": "léitli",
+    "en": "lately"
+  },
+  {
+    "es": "restricción",
+    "pron": "ristríkshon",
+    "en": "restriction"
+  },
+  {
+    "es": "grieta",
+    "pron": "krák",
+    "en": "crack"
+  },
+  {
+    "es": "condena",
+    "pron": "konvíkshon",
+    "en": "conviction"
+  },
+  {
+    "es": "playoff",
+    "pron": "pléiof",
+    "en": "playoff"
+  },
+  {
+    "es": "actriz",
+    "pron": "áktris",
+    "en": "actress"
+  },
+  {
+    "es": "hacer trampa",
+    "pron": "chíit",
+    "en": "cheat"
+  },
+  {
+    "es": "formato",
+    "pron": "fórmat",
+    "en": "format"
+  },
+  {
+    "es": "controversia",
+    "pron": "kóntraversi",
+    "en": "controversy"
+  },
+  {
+    "es": "auto",
+    "pron": "óuto",
+    "en": "auto"
+  },
+  {
+    "es": "sede",
+    "pron": "hédkuórters",
+    "en": "headquarters"
+  },
+  {
+    "es": "rasgar",
+    "pron": "ríp",
+    "en": "rip"
+  },
+  {
+    "es": "sombra",
+    "pron": "shéid",
+    "en": "shade"
+  },
+  {
+    "es": "regular",
+    "pron": "réguleit",
+    "en": "regulate"
+  },
+  {
+    "es": "metro",
+    "pron": "míter",
+    "en": "meter"
+  },
+  {
+    "es": "un puñado",
+    "pron": "hándful",
+    "en": "handful"
+  },
+  {
+    "es": "derechos de autor",
+    "pron": "kópirrait",
+    "en": "copyright"
+  },
+  {
+    "es": "dependiente",
+    "pron": "dipéndent",
+    "en": "dependent"
+  },
+  {
+    "es": "firma",
+    "pron": "sígnacher",
+    "en": "signature"
+  },
+  {
+    "es": "fortalecer",
+    "pron": "stréngzen",
+    "en": "strengthen"
+  },
+  {
+    "es": "dar derecho",
+    "pron": "entáitol",
+    "en": "entitle"
+  },
+  {
+    "es": "quienquiera",
+    "pron": "juéver",
+    "en": "whoever"
+  },
+  {
+    "es": "transportista",
+    "pron": "kárrier",
+    "en": "carrier"
+  },
+  {
+    "es": "aniversario",
+    "pron": "anivérsari",
+    "en": "anniversary"
+  },
+  {
+    "es": "ética",
+    "pron": "éziks",
+    "en": "ethics"
+  },
+  {
+    "es": "leyenda",
+    "pron": "lédgend",
+    "en": "legend"
+  },
+  {
+    "es": "beca",
+    "pron": "skólarship",
+    "en": "scholarship"
+  },
+  {
+    "es": "membresía",
+    "pron": "mémbershɪp",
+    "en": "membership"
+  },
+  {
+    "es": "posición",
+    "pron": "stándin",
+    "en": "standing"
+  },
+  {
+    "es": "posesión",
+    "pron": "pozéshon",
+    "en": "possession"
+  },
+  {
+    "es": "tratado",
+    "pron": "tríti",
+    "en": "treaty"
+  },
+  {
+    "es": "parcialmente",
+    "pron": "pártli",
+    "en": "partly"
+  },
+  {
+    "es": "conciencia",
+    "pron": "kónshesnes",
+    "en": "consciousness"
+  },
+  {
+    "es": "fabricación",
+    "pron": "manufiákchurin",
+    "en": "manufacturing"
+  },
+  {
+    "es": "anuncio",
+    "pron": "anáunsment",
+    "en": "announcement"
+  },
+  {
+    "es": "predicción",
+    "pron": "pridíkshon",
+    "en": "prediction"
+  },
+  {
+    "es": "mediación",
+    "pron": "mediéishon",
+    "en": "mediation"
+  },
+  {
+    "es": "arbitraje",
+    "pron": "árbitréishon",
+    "en": "arbitration"
+  },
+  {
+    "es": "transparencia",
+    "pron": "transpárensi",
+    "en": "transparency"
+  },
+  {
+    "es": "responsabilidad",
+    "pron": "akauntábiliti",
+    "en": "accountability"
+  },
+  {
+    "es": "regulación",
+    "pron": "regiuléishon",
+    "en": "regulation"
+  },
+  {
+    "es": "sostenible",
+    "pron": "sasteinéibol",
+    "en": "sustainable"
+  },
+  {
+    "es": "estrategia",
+    "pron": "stráteyi",
+    "en": "strategy"
+  },
+  {
+    "es": "innovador",
+    "pron": "ínovativ",
+    "en": "innovative"
+  },
+  {
+    "es": "credibilidad",
+    "pron": "kredibíliti",
+    "en": "credibility"
+  },
+  {
+    "es": "supervisión",
+    "pron": "óuversait",
+    "en": "oversight"
+  },
+  {
+    "es": "evaluación",
+    "pron": "asésment",
+    "en": "assessment"
+  }
+]
