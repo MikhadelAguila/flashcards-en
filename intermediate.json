@@ -465,11 +465,6 @@
     "en": "cream"
   },
   {
-    "es": "suelo / tierra",
-    "pron": "graund",
-    "en": "ground"
-  },
-  {
     "es": "ángel",
     "pron": "éinchel",
     "en": "angel"
@@ -795,11 +790,6 @@
     "en": "jacket"
   },
   {
-    "es": "mamá",
-    "pron": "mam",
-    "en": "mom"
-  },
-  {
     "es": "gemelo",
     "pron": "tuin",
     "en": "twin"
@@ -1078,11 +1068,6 @@
     "es": "morder",
     "pron": "bait",
     "en": "bite"
-  },
-  {
-    "es": "palo",
-    "pron": "stik",
-    "en": "stick"
   },
   {
     "es": "tigre",
@@ -2216,7 +2201,7 @@
   },
   {
     "es": "miércoles",
-    "pron": "uénsdei",
+    "pron": "wénsdei",
     "en": "Wednesday"
   },
   {
@@ -2348,11 +2333,6 @@
     "es": "maldito (vulgar)",
     "pron": "fákin",
     "en": "fucking"
-  },
-  {
-    "es": "ahora",
-    "pron": "nau",
-    "en": "now"
   },
   {
     "es": "equipo",
@@ -2830,11 +2810,6 @@
     "en": "warn"
   },
   {
-    "es": "influir",
-    "pron": "ínfluens",
-    "en": "influence"
-  },
-  {
     "es": "débil",
     "pron": "uíik",
     "en": "weak"
@@ -3010,11 +2985,6 @@
     "en": "overall"
   },
   {
-    "es": "pregunta",
-    "pron": "kuéschon",
-    "en": "question"
-  },
-  {
     "es": "a largo plazo",
     "pron": "lóng-term",
     "en": "long-term"
@@ -3108,11 +3078,6 @@
     "es": "adelante",
     "pron": "fórz",
     "en": "forth"
-  },
-  {
-    "es": "su",
-    "pron": "jís",
-    "en": "his"
   },
   {
     "es": "bono / vínculo",
@@ -3241,7 +3206,7 @@
   },
   {
     "es": "masa",
-    "pron": "mas",
+    "pron": "más",
     "en": "mass"
   },
   {
@@ -3805,11 +3770,6 @@
     "en": "immigrant"
   },
   {
-    "es": "primero",
-    "pron": "fɜ ́ rst",
-    "en": "first"
-  },
-  {
     "es": "distribución",
     "pron": "distríbiushon",
     "en": "distribution"
@@ -3823,11 +3783,6 @@
     "es": "alternativa",
     "pron": "oltérnativ",
     "en": "alternative"
-  },
-  {
-    "es": "favorito",
-    "pron": "féivorit",
-    "en": "favorite"
   },
   {
     "es": "violento",
@@ -3896,7 +3851,7 @@
   },
   {
     "es": "filosofía",
-    "pron": "filósophi",
+    "pron": "filósofi",
     "en": "philosophy"
   },
   {
@@ -4170,11 +4125,6 @@
     "en": "contemporary"
   },
   {
-    "es": "bueno",
-    "pron": "gúd",
-    "en": "good"
-  },
-  {
     "es": "rural",
     "pron": "rúral",
     "en": "rural"
@@ -4408,11 +4358,6 @@
     "es": "modo",
     "pron": "móud",
     "en": "mode"
-  },
-  {
-    "es": "respeto",
-    "pron": "rispékt",
-    "en": "respect"
   },
   {
     "es": "ampliamente",
@@ -7445,19 +7390,9 @@
     "en": "accountability"
   },
   {
-    "es": "regulación",
-    "pron": "regiuléishon",
-    "en": "regulation"
-  },
-  {
     "es": "sostenible",
     "pron": "sasteinéibol",
     "en": "sustainable"
-  },
-  {
-    "es": "estrategia",
-    "pron": "stráteyi",
-    "en": "strategy"
   },
   {
     "es": "innovador",
@@ -7473,10 +7408,5 @@
     "es": "supervisión",
     "pron": "óuversait",
     "en": "oversight"
-  },
-  {
-    "es": "evaluación",
-    "pron": "asésment",
-    "en": "assessment"
   }
 ]
